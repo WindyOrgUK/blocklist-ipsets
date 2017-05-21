@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32351,
-		"common": 15278
+		"common": 15282
 	},
 	{
 		"name": "anonymous",
@@ -92,7 +92,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 320,
+		"ips": 335,
 		"common": 4
 	},
 	{
@@ -123,7 +123,7 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 329,
-		"common": 97
+		"common": 96
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -260,8 +260,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10995,
-		"common": 232
+		"ips": 11026,
+		"common": 231
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -338,8 +338,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 14832,
-		"common": 14832
+		"ips": 14849,
+		"common": 14849
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -782,8 +782,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11441,
-		"common": 631
+		"ips": 11540,
+		"common": 635
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -800,19 +800,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654752126,
+		"ips": 654752142,
 		"common": 6717
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 43928,
-		"common": 8104
+		"common": 8105
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587066,
+		"ips": 9587097,
 		"common": 2238
 	},
 	{
@@ -831,7 +831,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738192,
-		"common": 25050
+		"common": 25051
 	},
 	{
 		"name": "fullbogons",
@@ -861,7 +861,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2227,
-		"common": 332
+		"common": 333
 	},
 	{
 		"name": "haley_ssh",
@@ -1071,7 +1071,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690424,
-		"common": 5791
+		"common": 5792
 	},
 	{
 		"name": "iblocklist_level2",
@@ -1244,8 +1244,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 20007,
-		"common": 176
+		"ips": 20113,
+		"common": 178
 	},
 	{
 		"name": "nt_malware_http",
@@ -1269,7 +1269,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 4111,
-		"common": 1188
+		"common": 1189
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -1394,13 +1394,13 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1669,
-		"common": 45
+		"ips": 1680,
+		"common": 48
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2791,
+		"ips": 2806,
 		"common": 84
 	},
 	{
@@ -1412,7 +1412,7 @@
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4520,
+		"ips": 4527,
 		"common": 122
 	},
 	{
@@ -1464,39 +1464,33 @@
 		"common": 103
 	},
 	{
-		"name": "proxz",
-		"category": "anonymizers",
-		"ips": 24,
-		"common": 1
-	},
-	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 289,
+		"ips": 282,
 		"common": 17
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2544,
+		"ips": 2542,
 		"common": 67
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 1043,
+		"ips": 1049,
 		"common": 38
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 21160
+		"common": 21161
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4905,
+		"ips": 4904,
 		"common": 39
 	},
 	{
@@ -1641,7 +1635,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 9271
+		"common": 9275
 	},
 	{
 		"name": "sorbs_escalations",
@@ -1748,8 +1742,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4880,
-		"common": 450
+		"ips": 4995,
+		"common": 454
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1833,7 +1827,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 33087,
-		"common": 8373
+		"common": 8376
 	},
 	{
 		"name": "urandomusto_dns",
@@ -1893,7 +1887,7 @@
 		"name": "urandomusto_telnet",
 		"category": "attacks",
 		"ips": 432,
-		"common": 106
+		"common": 107
 	},
 	{
 		"name": "urandomusto_unspecified",
