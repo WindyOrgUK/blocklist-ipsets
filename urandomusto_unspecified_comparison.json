@@ -68,25 +68,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35291,
+		"ips": 35383,
 		"common": 14
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8830,
+		"ips": 8836,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3180,
+		"ips": 3193,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17375,
+		"ips": 17403,
 		"common": 2
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16550,
+		"ips": 16609,
 		"common": 1
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 41915,
+		"ips": 41911,
 		"common": 1
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 23140,
+		"ips": 23102,
 		"common": 1
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 873,
+		"ips": 875,
 		"common": 3
 	},
 	{
@@ -230,13 +230,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44057,
+		"ips": 44140,
 		"common": 29
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133956,
+		"ips": 133958,
 		"common": 30
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2248,
+		"ips": 2239,
 		"common": 17
 	},
 	{
@@ -464,19 +464,25 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 262,
+		"ips": 294,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 108,
+		"ips": 106,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
 		"ips": 269,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 440,
 		"common": 1
 	},
 	{
