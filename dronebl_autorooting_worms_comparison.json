@@ -26,8 +26,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 311,
-		"common": 10
+		"ips": 312,
+		"common": 9
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -50,43 +50,43 @@
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
-		"ips": 5708,
-		"common": 203
+		"ips": 5199,
+		"common": 204
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32294,
+		"ips": 32202,
 		"common": 15
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2611,
+		"ips": 2588,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15598,
+		"ips": 15575,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15335,
+		"ips": 15275,
 		"common": 5
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 127,
+		"ips": 128,
 		"common": 11
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10675,
+		"ips": 10695,
 		"common": 4
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 49965,
+		"ips": 49969,
 		"common": 2
 	},
 	{
@@ -122,19 +122,19 @@
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19202,
+		"ips": 19208,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4941,
+		"ips": 4945,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 41999,
+		"ips": 42000,
 		"common": 1
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2754,
+		"ips": 2753,
 		"common": 1
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 213978,
+		"ips": 213988,
 		"common": 4
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40775,
+		"ips": 40683,
 		"common": 15
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586866,
+		"ips": 9586887,
 		"common": 473
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28673,
+		"ips": 28644,
 		"common": 5
 	},
 	{
@@ -532,6 +532,12 @@
 		"category": "reputation",
 		"ips": 1590,
 		"common": 9
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 39574,
+		"common": 5
 	},
 	{
 		"name": "urandomusto_mailer",
