@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32417,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "atlas_attacks_30d",
@@ -105,7 +105,13 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 376,
-		"common": 25
+		"common": 26
+	},
+	{
+		"name": "dataplane_sipregistration",
+		"category": "attacks",
+		"ips": 41,
+		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -200,20 +206,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587021,
+		"ips": 9587020,
 		"common": 12
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738123,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095802,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "greensnow",
@@ -273,13 +279,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_org_microsoft",
@@ -339,7 +345,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "sorbs_dul",
@@ -405,7 +411,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 33087,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "urandomusto_dns",
@@ -434,13 +440,13 @@
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 419,
-		"common": 3
+		"ips": 435,
+		"common": 4
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 27102,
-		"common": 26
+		"common": 27
 	}
 ]
