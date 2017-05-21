@@ -74,7 +74,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 329,
+		"ips": 334,
 		"common": 6
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10900,
+		"ips": 10879,
 		"common": 32
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 717,
+		"ips": 711,
 		"common": 6
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39145,
+		"ips": 39148,
 		"common": 69
 	},
 	{
@@ -524,13 +524,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587018,
+		"ips": 9587005,
 		"common": 224
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25847,
+		"ips": 25851,
 		"common": 67
 	},
 	{
@@ -950,7 +950,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4906,
+		"ips": 4905,
 		"common": 4
 	},
 	{
@@ -1002,21 +1002,27 @@
 		"common": 42
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1867,
+		"ips": 1862,
 		"common": 6
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11901,
+		"ips": 11903,
 		"common": 55
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3975,
+		"ips": 3976,
 		"common": 10
 	},
 	{
@@ -1076,13 +1082,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3057,
+		"ips": 3058,
 		"common": 9
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 796,
+		"ips": 799,
 		"common": 1
 	},
 	{
@@ -1142,13 +1148,13 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2088,
+		"ips": 2099,
 		"common": 2
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1271,
+		"ips": 1282,
 		"common": 2
 	},
 	{
@@ -1208,8 +1214,8 @@
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 430,
-		"common": 7
+		"ips": 419,
+		"common": 10
 	},
 	{
 		"name": "urandomusto_unspecified",
