@@ -74,19 +74,19 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8826,
+		"ips": 8830,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3211,
+		"ips": 3180,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17461,
+		"ips": 17375,
 		"common": 2
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16605,
+		"ips": 16550,
 		"common": 1
 	},
 	{
@@ -372,9 +372,15 @@
 		"common": 3
 	},
 	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 125,
+		"common": 1
+	},
+	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 1987,
+		"ips": 2018,
 		"common": 3
 	},
 	{
