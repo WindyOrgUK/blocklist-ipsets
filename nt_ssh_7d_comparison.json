@@ -2,7 +2,7 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 32417,
+		"ips": 32476,
 		"common": 7
 	},
 	{
@@ -44,13 +44,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33503,
+		"ips": 33536,
 		"common": 108
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16172,
+		"ips": 16195,
 		"common": 108
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10872,
+		"ips": 10833,
 		"common": 16
 	},
 	{
@@ -78,21 +78,27 @@
 		"common": 6
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 60,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1110,
+		"ips": 1136,
 		"common": 6
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15822,
+		"ips": 15827,
 		"common": 7
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5141,
+		"ips": 5144,
 		"common": 6
 	},
 	{
@@ -254,7 +260,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12169,
+		"ips": 12187,
 		"common": 6
 	},
 	{
@@ -266,7 +272,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39216,
+		"ips": 39218,
 		"common": 6
 	},
 	{
@@ -278,7 +284,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41819,
+		"ips": 41849,
 		"common": 110
 	},
 	{
@@ -290,13 +296,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587007,
+		"ips": 9586973,
 		"common": 60
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25873,
+		"ips": 25875,
 		"common": 4
 	},
 	{
@@ -320,7 +326,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1644,
+		"ips": 1641,
 		"common": 11
 	},
 	{
@@ -626,19 +632,13 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 134,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 443,
+		"ips": 135,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
 		"ips": 445,
-		"common": 15
+		"common": 13
 	}
 ]
