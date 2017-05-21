@@ -38,8 +38,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34056,
-		"common": 160
+		"ips": 33975,
+		"common": 161
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -128,26 +128,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 56,
-		"common": 8
+		"ips": 45,
+		"common": 7
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1090,
-		"common": 142
+		"ips": 1088,
+		"common": 143
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15814,
-		"common": 555
+		"ips": 15813,
+		"common": 559
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5137,
-		"common": 529
+		"ips": 5138,
+		"common": 533
 	},
 	{
 		"name": "ciarmy",
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12066,
+		"ips": 12067,
 		"common": 1574
 	},
 	{
@@ -392,8 +392,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42362,
-		"common": 162
+		"ips": 42284,
+		"common": 163
 	},
 	{
 		"name": "firehol_level3",
@@ -404,8 +404,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587007,
-		"common": 591
+		"ips": 9587006,
+		"common": 595
 	},
 	{
 		"name": "firehol_proxies",
@@ -446,7 +446,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1623,
+		"ips": 1630,
 		"common": 11
 	},
 	{
@@ -644,7 +644,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 23077,
+		"ips": 23059,
 		"common": 39
 	},
 	{
@@ -824,7 +824,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4906,
+		"ips": 4905,
 		"common": 1
 	},
 	{
@@ -1082,13 +1082,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 251,
-		"common": 4
+		"ips": 249,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 286,
+		"ips": 308,
 		"common": 6
 	},
 	{
@@ -1096,6 +1096,12 @@
 		"category": "spam",
 		"ips": 443,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 445,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
