@@ -422,7 +422,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 870,
+		"ips": 875,
 		"common": 5
 	},
 	{
@@ -476,19 +476,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654752104,
+		"ips": 654747496,
 		"common": 87
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41944,
-		"common": 1017
+		"ips": 41943,
+		"common": 1016
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134345,
+		"ips": 134350,
 		"common": 220
 	},
 	{
@@ -1176,21 +1176,27 @@
 		"common": 40
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1976,
+		"ips": 1979,
 		"common": 6
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11977,
+		"ips": 11981,
 		"common": 10
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4081,
+		"ips": 4085,
 		"common": 10
 	},
 	{
@@ -1245,7 +1251,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "sslproxies_1d",
@@ -1370,20 +1376,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 254,
+		"ips": 256,
 		"common": 26
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 306,
-		"common": 31
+		"ips": 305,
+		"common": 27
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 444,
-		"common": 30
+		"ips": 432,
+		"common": 31
 	},
 	{
 		"name": "urlvir",
