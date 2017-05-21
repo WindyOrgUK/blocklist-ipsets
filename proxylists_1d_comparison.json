@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11031,
+		"ips": 11034,
 		"common": 102
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587103,
+		"ips": 9587106,
 		"common": 461
 	},
 	{
@@ -572,8 +572,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 19989,
-		"common": 135
+		"ips": 20034,
+		"common": 136
 	},
 	{
 		"name": "nullsecure",
@@ -999,6 +999,12 @@
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 395,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 432,
 		"common": 1
 	},
 	{
