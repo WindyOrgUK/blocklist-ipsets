@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11183,
+		"ips": 11199,
 		"common": 3
 	},
 	{
@@ -152,13 +152,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 49985,
+		"ips": 49986,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 42029,
+		"ips": 42032,
 		"common": 1
 	},
 	{
@@ -218,19 +218,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11705,
+		"ips": 11691,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 213136,
+		"ips": 213139,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654747533,
+		"ips": 654747534,
 		"common": 24
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587463,
+		"ips": 9587481,
 		"common": 55
 	},
 	{
@@ -446,14 +446,20 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4909,
-		"common": 48
+		"ips": 4910,
+		"common": 49
+	},
+	{
+		"name": "ransomware_locky_c2",
+		"category": "malware",
+		"ips": 258,
+		"common": 1
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11804,
-		"common": 1
+		"ips": 11806,
+		"common": 2
 	},
 	{
 		"name": "ransomware_torrentlocker_c2",
