@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11354,
+		"ips": 11403,
 		"common": 14
 	},
 	{
@@ -176,20 +176,32 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6979,
-		"common": 43
+		"ips": 6999,
+		"common": 41
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 55,
+		"common": 1
+	},
+	{
+		"name": "botscout_1d",
+		"category": "abuse",
+		"ips": 1018,
+		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15795,
-		"common": 51
+		"ips": 15797,
+		"common": 52
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5045,
-		"common": 17
+		"ips": 5048,
+		"common": 18
 	},
 	{
 		"name": "bruteforceblocker",
@@ -302,7 +314,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6981,
+		"ips": 6995,
 		"common": 41
 	},
 	{
@@ -350,7 +362,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 872,
+		"ips": 873,
 		"common": 6
 	},
 	{
@@ -518,8 +530,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11723,
-		"common": 78
+		"ips": 11729,
+		"common": 79
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -530,8 +542,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38819,
-		"common": 264
+		"ips": 38780,
+		"common": 262
 	},
 	{
 		"name": "firehol_level1",
@@ -542,20 +554,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41280,
+		"ips": 41288,
 		"common": 313
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133754,
+		"ips": 133756,
 		"common": 1996
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587627,
-		"common": 685
+		"ips": 9587677,
+		"common": 686
 	},
 	{
 		"name": "firehol_proxies",
@@ -566,7 +578,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27060,
+		"ips": 27059,
 		"common": 428
 	},
 	{
@@ -596,7 +608,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 915,
+		"ips": 922,
 		"common": 1
 	},
 	{
@@ -788,8 +800,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32968,
-		"common": 1665
+		"ips": 33110,
+		"common": 1677
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1166,7 +1178,7 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 277,
+		"ips": 280,
 		"common": 2
 	},
 	{
