@@ -27,13 +27,13 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 5857,
-		"common": 301
+		"common": 303
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 2734,
-		"common": 298
+		"common": 300
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -51,7 +51,7 @@
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 430,
-		"common": 40
+		"common": 41
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -63,13 +63,13 @@
 		"name": "bi_voip_2_30d",
 		"category": "attacks",
 		"ips": 12,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 32128,
-		"common": 159
+		"common": 161
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -105,13 +105,13 @@
 		"name": "blocklist_de_sip",
 		"category": "attacks",
 		"ips": 127,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 14972,
-		"common": 118
+		"common": 119
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -261,13 +261,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 25386,
-		"common": 169
+		"common": 170
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 22522,
-		"common": 129
+		"common": 130
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -303,7 +303,7 @@
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 310631,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "dronebl_autorooting_worms",
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39008,
+		"ips": 39006,
 		"common": 43
 	},
 	{
@@ -411,7 +411,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 41175,
-		"common": 179
+		"common": 181
 	},
 	{
 		"name": "firehol_level3",
@@ -428,7 +428,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25720,
+		"ips": 25718,
 		"common": 35
 	},
 	{
@@ -453,7 +453,7 @@
 		"name": "gpf_comics",
 		"category": "abuse",
 		"ips": 3608,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "graphiclineweb",
@@ -501,7 +501,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "iblocklist_forumspam",
@@ -591,7 +591,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1337564,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -608,7 +608,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29574,
+		"ips": 29948,
 		"common": 26
 	},
 	{
@@ -861,19 +861,19 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 35223,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 42
+		"common": 43
 	},
 	{
 		"name": "spamhaus_drop",
@@ -987,7 +987,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 39574,
-		"common": 83
+		"common": 84
 	},
 	{
 		"name": "urandomusto_dns",
@@ -1047,6 +1047,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 27121,
-		"common": 17
+		"common": 18
 	}
 ]
