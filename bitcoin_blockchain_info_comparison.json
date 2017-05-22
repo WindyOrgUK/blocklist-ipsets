@@ -8,44 +8,44 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 1289,
-		"common": 202
+		"ips": 1337,
+		"common": 190
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 6750,
-		"common": 202
+		"ips": 6756,
+		"common": 190
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 1589,
-		"common": 202
+		"ips": 1632,
+		"common": 190
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5703,
-		"common": 200
+		"ips": 5738,
+		"common": 189
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7161,
-		"common": 200
+		"ips": 7173,
+		"common": 189
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 21914,
-		"common": 201
+		"ips": 21923,
+		"common": 190
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11160,
-		"common": 200
+		"ips": 11172,
+		"common": 189
 	},
 	{
 		"name": "blocklist_de",
@@ -75,7 +75,7 @@
 		"name": "bm_tor",
 		"category": "anonymizers",
 		"ips": 6998,
-		"common": 6
+		"common": 3
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -93,7 +93,7 @@
 		"name": "dm_tor",
 		"category": "anonymizers",
 		"ips": 6994,
-		"common": 6
+		"common": 3
 	},
 	{
 		"name": "dronebl_anonymizers",
@@ -111,13 +111,13 @@
 		"name": "et_tor",
 		"category": "anonymizers",
 		"ips": 7030,
-		"common": 6
+		"common": 3
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
 		"ips": 38733,
-		"common": 6
+		"common": 3
 	},
 	{
 		"name": "firehol_level2",
@@ -126,28 +126,16 @@
 		"common": 1
 	},
 	{
-		"name": "firehol_level4",
-		"category": "attacks",
-		"ips": 9587825,
-		"common": 1
-	},
-	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738219,
-		"common": 41
+		"common": 36
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095807,
 		"common": 3
-	},
-	{
-		"name": "hphosts_emd",
-		"category": "malware",
-		"ips": 25327,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -159,30 +147,42 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 7
+		"common": 4
 	},
 	{
-		"name": "iblocklist_hijacked",
-		"category": "attacks",
-		"ips": 9145088,
+		"name": "iblocklist_isp_aol",
+		"category": "organizations",
+		"ips": 6627584,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_att",
+		"category": "organizations",
+		"ips": 55845128,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_charter",
 		"category": "organizations",
 		"ips": 6138112,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "iblocklist_isp_qwest",
 		"category": "organizations",
 		"ips": 15777552,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_isp_twc",
+		"category": "organizations",
+		"ips": 15015936,
 		"common": 1
 	},
 	{
@@ -195,55 +195,43 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762625887,
-		"common": 11
+		"common": 8
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 18
+		"common": 13
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 11
+		"common": 9
 	},
 	{
 		"name": "iblocklist_onion_router",
 		"category": "anonymizers",
 		"ips": 6943,
-		"common": 6
-	},
-	{
-		"name": "iblocklist_pedophiles",
-		"category": "reputation",
-		"ips": 845657,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_rangetest",
-		"category": "reputation",
-		"ips": 4346058,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 40
+		"common": 36
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 31
+		"common": 28
 	},
 	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sorbs_recent_spam",
