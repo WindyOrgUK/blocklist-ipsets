@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12198,
+		"ips": 12192,
 		"common": 112
 	},
 	{
@@ -500,13 +500,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133795,
+		"ips": 133798,
 		"common": 51
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588429,
+		"ips": 9588425,
 		"common": 12190
 	},
 	{
@@ -855,6 +855,12 @@
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
 		"ips": 48,
+		"common": 1
+	},
+	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 123,
 		"common": 1
 	},
 	{

@@ -98,7 +98,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1376,
+		"ips": 1378,
 		"common": 2
 	},
 	{
@@ -224,13 +224,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133795,
+		"ips": 133798,
 		"common": 45
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588429,
+		"ips": 9588425,
 		"common": 2
 	},
 	{
@@ -326,8 +326,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4066,
-		"common": 31
+		"ips": 4076,
+		"common": 30
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -338,8 +338,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2347,
-		"common": 18
+		"ips": 2490,
+		"common": 19
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -423,6 +423,12 @@
 		"name": "urandomusto_http",
 		"category": "attacks",
 		"ips": 245,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 448,
 		"common": 1
 	},
 	{
