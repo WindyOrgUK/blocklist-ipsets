@@ -72,21 +72,9 @@
 		"common": 1
 	},
 	{
-		"name": "cruzit_web_attacks",
+		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 6918,
-		"common": 1
-	},
-	{
-		"name": "dragon_http",
-		"category": "attacks",
-		"ips": 59136,
-		"common": 1
-	},
-	{
-		"name": "dronebl_anonymizers",
-		"category": "anonymizers",
-		"ips": 326842,
+		"ips": 29952,
 		"common": 1
 	},
 	{
@@ -110,19 +98,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13340,
+		"ips": 13402,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 213272,
+		"ips": 213283,
 		"common": 1
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38678,
+		"ips": 38677,
 		"common": 2
 	},
 	{
@@ -141,25 +129,25 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9588546,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25417,
+		"ips": 25416,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738165,
-		"common": 174
+		"common": 178
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095808,
-		"common": 46
+		"common": 47
 	},
 	{
 		"name": "hphosts_emd",
@@ -184,12 +172,6 @@
 		"category": "unrouteable",
 		"ips": 656175779,
 		"common": 17
-	},
-	{
-		"name": "iblocklist_cruzit_web_attacks",
-		"category": "attacks",
-		"ips": 6906,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_edu",
@@ -219,7 +201,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 126399861,
-		"common": 73
+		"common": 71
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -231,7 +213,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 28
+		"common": 27
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -249,7 +231,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 162
+		"common": 163
 	},
 	{
 		"name": "proxylists_1d",
@@ -303,7 +285,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 165
+		"common": 169
 	},
 	{
 		"name": "sorbs_dul",
@@ -375,12 +357,12 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 14004,
-		"common": 183
+		"common": 182
 	},
 	{
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 2
+		"common": 1
 	}
 ]
