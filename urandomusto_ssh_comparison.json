@@ -140,13 +140,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 25564,
+		"ips": 25543,
 		"common": 94
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 22637,
+		"ips": 22617,
 		"common": 83
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 30208,
+		"ips": 29952,
 		"common": 4
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38737,
+		"ips": 38735,
 		"common": 1
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133506,
+		"ips": 133250,
 		"common": 27
 	},
 	{
@@ -508,6 +508,24 @@
 		"category": "reputation",
 		"ips": 39574,
 		"common": 53
+	},
+	{
+		"name": "urandomusto_dns",
+		"category": "attacks",
+		"ips": 135,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 284,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 263,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
