@@ -6,6 +6,12 @@
 		"common": 10
 	},
 	{
+		"name": "bbcan177_ms1",
+		"category": "malware",
+		"ips": 5268568,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 443,
@@ -33,7 +39,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 33065,
-		"common": 85
+		"common": 86
+	},
+	{
+		"name": "blocklist_de_strongips",
+		"category": "attacks",
+		"ips": 129,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -98,19 +110,25 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 25714,
+		"ips": 25712,
 		"common": 4
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 22834,
+		"ips": 22833,
 		"common": 2
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 310631,
+		"common": 1
+	},
+	{
+		"name": "dronebl_autorooting_worms",
+		"category": "attacks",
+		"ips": 962,
 		"common": 1
 	},
 	{
@@ -123,7 +141,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 31232,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dshield_7d",
@@ -177,13 +195,13 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 41578,
-		"common": 85
+		"common": 86
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 133747,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "firehol_level4",
@@ -261,7 +279,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -394,6 +412,12 @@
 		"category": "reputation",
 		"ips": 39574,
 		"common": 14
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 449,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
