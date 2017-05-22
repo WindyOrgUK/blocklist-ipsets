@@ -66,6 +66,18 @@
 		"common": 2
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 32266,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 15679,
+		"common": 1
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 10781,
@@ -182,7 +194,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 310638,
+		"ips": 310639,
 		"common": 8
 	},
 	{
@@ -232,6 +244,12 @@
 		"category": "anonymizers",
 		"ips": 39036,
 		"common": 7
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 41060,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
