@@ -212,7 +212,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39015,
+		"ips": 39011,
 		"common": 1
 	},
 	{
@@ -236,13 +236,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587035,
+		"ips": 9587041,
 		"common": 3
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25731,
+		"ips": 25723,
 		"common": 1
 	},
 	{
@@ -525,6 +525,12 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 39574,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 446,
 		"common": 1
 	}
 ]
