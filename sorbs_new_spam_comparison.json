@@ -62,31 +62,31 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 7052,
+		"ips": 7056,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5752,
+		"ips": 5780,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7213,
+		"ips": 7233,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22034,
+		"ips": 22042,
 		"common": 4
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11295,
+		"ips": 11301,
 		"common": 3
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12347,
+		"ips": 12349,
 		"common": 368
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 326844,
+		"ips": 326843,
 		"common": 1409
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38729,
+		"ips": 38722,
 		"common": 876
 	},
 	{
@@ -494,13 +494,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588601,
+		"ips": 9588604,
 		"common": 673
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25446,
+		"ips": 25439,
 		"common": 872
 	},
 	{
@@ -866,8 +866,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 33766,
-		"common": 986
+		"ips": 33547,
+		"common": 1009
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1155,25 +1155,25 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 5
+		"common": 7
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2048,
+		"ips": 2052,
 		"common": 149
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11670,
-		"common": 686
+		"ips": 11663,
+		"common": 685
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4498,
-		"common": 368
+		"ips": 4496,
+		"common": 367
 	},
 	{
 		"name": "sorbs_dul",
@@ -1358,13 +1358,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 282,
+		"ips": 281,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 292,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 446,
+		"ips": 445,
 		"common": 14
 	},
 	{
