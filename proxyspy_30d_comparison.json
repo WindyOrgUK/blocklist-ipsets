@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 255,
+		"ips": 254,
 		"common": 25
 	},
 	{
@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12322,
+		"ips": 12307,
 		"common": 114
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "cruzit_web_attacks",
 		"category": "attacks",
-		"ips": 6915,
+		"ips": 6918,
 		"common": 4
 	},
 	{
@@ -212,13 +212,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 25493,
+		"ips": 25497,
 		"common": 2
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 22556,
+		"ips": 22551,
 		"common": 1
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38621,
+		"ips": 38625,
 		"common": 6719
 	},
 	{
@@ -368,13 +368,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588563,
+		"ips": 9588552,
 		"common": 831
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25408,
+		"ips": 25412,
 		"common": 6736
 	},
 	{
@@ -867,24 +867,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 4
+		"common": 6
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2078,
+		"ips": 2085,
 		"common": 130
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11637,
+		"ips": 11640,
 		"common": 147
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4512,
+		"ips": 4516,
 		"common": 136
 	},
 	{
@@ -944,19 +944,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 246,
+		"ips": 247,
 		"common": 86
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3062,
+		"ips": 3063,
 		"common": 790
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 796,
+		"ips": 797,
 		"common": 266
 	},
 	{
@@ -1054,12 +1054,6 @@
 		"category": "spam",
 		"ips": 445,
 		"common": 2
-	},
-	{
-		"name": "urandomusto_telnet",
-		"category": "attacks",
-		"ips": 432,
-		"common": 1
 	},
 	{
 		"name": "voipbl",
