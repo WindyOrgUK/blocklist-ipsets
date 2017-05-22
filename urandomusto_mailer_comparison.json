@@ -69,7 +69,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 34334,
-		"common": 90
+		"common": 91
 	},
 	{
 		"name": "blocklist_de_imap",
@@ -81,7 +81,7 @@
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 17750,
-		"common": 90
+		"common": 91
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -267,7 +267,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 42873,
-		"common": 94
+		"common": 95
 	},
 	{
 		"name": "firehol_level3",
@@ -351,7 +351,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762625887,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "iblocklist_level2",
@@ -530,19 +530,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1963,
+		"ips": 1966,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11702,
+		"ips": 11703,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4425,
+		"ips": 4423,
 		"common": 1
 	},
 	{
@@ -567,7 +567,7 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -669,7 +669,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 39574,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "urandomusto_dns",
@@ -680,14 +680,8 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 281,
+		"ips": 280,
 		"common": 4
-	},
-	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 244,
-		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
