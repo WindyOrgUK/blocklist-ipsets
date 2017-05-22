@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34715,
+		"ips": 34691,
 		"common": 3
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 388,
+		"ips": 389,
 		"common": 5
 	},
 	{
@@ -86,8 +86,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42518,
-		"common": 3
+		"ips": 42498,
+		"common": 4
 	},
 	{
 		"name": "firehol_level3",
@@ -108,6 +108,12 @@
 		"common": 11
 	},
 	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1367,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
@@ -124,12 +130,6 @@
 		"category": "reputation",
 		"ips": 762625887,
 		"common": 3
-	},
-	{
-		"name": "iblocklist_level2",
-		"category": "reputation",
-		"ips": 346613099,
-		"common": 8
 	},
 	{
 		"name": "iblocklist_level3",
