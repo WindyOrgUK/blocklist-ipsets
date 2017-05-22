@@ -60,22 +60,28 @@
 		"common": 18
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 42,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1019,
-		"common": 17
+		"ips": 1029,
+		"common": 18
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15797,
-		"common": 91
+		"ips": 15799,
+		"common": 92
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5047,
-		"common": 56
+		"ips": 5048,
+		"common": 57
 	},
 	{
 		"name": "ciarmy",
@@ -242,8 +248,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11507,
-		"common": 108
+		"ips": 11515,
+		"common": 109
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -254,7 +260,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38834,
+		"ips": 38853,
 		"common": 370
 	},
 	{
@@ -266,7 +272,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41814,
+		"ips": 41813,
 		"common": 37
 	},
 	{
@@ -278,13 +284,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587434,
-		"common": 97
+		"ips": 9587436,
+		"common": 98
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25609,
+		"ips": 25608,
 		"common": 372
 	},
 	{
@@ -302,7 +308,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1968,
+		"ips": 1964,
 		"common": 2
 	},
 	{
@@ -648,9 +654,15 @@
 		"common": 128
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 3
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1973,
+		"ips": 1977,
 		"common": 50
 	},
 	{
@@ -662,7 +674,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4338,
+		"ips": 4339,
 		"common": 59
 	},
 	{
@@ -705,7 +717,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "sslproxies_1d",
@@ -722,7 +734,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 792,
+		"ips": 790,
 		"common": 28
 	},
 	{
@@ -776,13 +788,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 278,
+		"ips": 277,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 296,
+		"ips": 284,
 		"common": 1
 	},
 	{
