@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12274,
+		"ips": 12247,
 		"common": 236
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 387,
+		"ips": 386,
 		"common": 1
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588491,
+		"ips": 9588464,
 		"common": 23472
 	},
 	{
@@ -488,7 +488,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34738219,
+		"ips": 34738228,
 		"common": 1489
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
-		"ips": 28072,
+		"ips": 28108,
 		"common": 28
 	},
 	{
@@ -848,7 +848,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36500,
+		"ips": 36574,
 		"common": 53
 	},
 	{
@@ -1240,6 +1240,12 @@
 		"category": "spam",
 		"ips": 448,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 288,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
