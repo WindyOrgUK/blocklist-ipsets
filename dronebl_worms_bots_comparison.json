@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12238,
+		"ips": 12222,
 		"common": 123
 	},
 	{
@@ -224,67 +224,67 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2594,
-		"common": 49
+		"ips": 2590,
+		"common": 46
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 5816,
+		"ips": 5776,
 		"common": 84
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 50021,
+		"ips": 50032,
 		"common": 469
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 15647,
+		"ips": 15632,
 		"common": 132
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1223,
+		"ips": 1216,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19291,
+		"ips": 19301,
 		"common": 91
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5145,
+		"ips": 5150,
 		"common": 8
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 49
+		"common": 46
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5361,
+		"ips": 5320,
 		"common": 87
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 41962,
+		"ips": 41959,
 		"common": 418
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13082,
+		"ips": 13058,
 		"common": 134
 	},
 	{
@@ -458,13 +458,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13398,
+		"ips": 13353,
 		"common": 192
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 213289,
+		"ips": 213297,
 		"common": 1966
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588497,
+		"ips": 9588480,
 		"common": 572
 	},
 	{
@@ -1356,10 +1356,16 @@
 		"common": 52
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 336,
+		"common": 3
+	},
+	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 447,
-		"common": 2
+		"ips": 449,
+		"common": 8
 	},
 	{
 		"name": "urandomusto_ssh",
