@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12365,
+		"ips": 12363,
 		"common": 360
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38738,
+		"ips": 38737,
 		"common": 1954
 	},
 	{
@@ -524,13 +524,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588563,
+		"ips": 9588562,
 		"common": 4268
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25495,
+		"ips": 25494,
 		"common": 1705
 	},
 	{
@@ -1128,21 +1128,27 @@
 		"common": 372
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 10
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2039,
-		"common": 86
+		"ips": 2041,
+		"common": 87
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11692,
+		"ips": 11693,
 		"common": 125
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4469,
+		"ips": 4470,
 		"common": 109
 	},
 	{
@@ -1209,7 +1215,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 37
+		"common": 36
 	},
 	{
 		"name": "sslproxies_1d",
@@ -1220,7 +1226,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3057,
+		"ips": 3056,
 		"common": 335
 	},
 	{
@@ -1352,8 +1358,8 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 288,
-		"common": 2
+		"ips": 443,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
