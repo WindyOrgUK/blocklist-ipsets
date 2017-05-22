@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33180,
+		"ips": 33102,
 		"common": 4
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15312,
+		"ips": 15257,
 		"common": 2
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41692,
+		"ips": 41613,
 		"common": 22
 	},
 	{
@@ -206,8 +206,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34738250,
-		"common": 13
+		"ips": 34738219,
+		"common": 12
 	},
 	{
 		"name": "gofferje_sip",
@@ -309,7 +309,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 4066,
-		"common": 29
+		"common": 28
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -321,7 +321,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "sorbs_dul",
@@ -375,7 +375,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 39574,
-		"common": 82
+		"common": 81
 	},
 	{
 		"name": "urandomusto_smb",
@@ -386,13 +386,19 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 363,
+		"ips": 338,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 441,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 93,
+		"ips": 94,
 		"common": 2
 	},
 	{
