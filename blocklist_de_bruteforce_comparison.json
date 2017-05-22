@@ -44,14 +44,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34888,
-		"common": 440
+		"ips": 34970,
+		"common": 441
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8971,
-		"common": 440
+		"ips": 8975,
+		"common": 441
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -116,13 +116,13 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2588,
+		"ips": 2594,
 		"common": 11
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 5834,
+		"ips": 5816,
 		"common": 20
 	},
 	{
@@ -134,25 +134,25 @@
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 15648,
+		"ips": 15647,
 		"common": 21
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1220,
+		"ips": 1223,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19288,
+		"ips": 19291,
 		"common": 8
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5138,
+		"ips": 5145,
 		"common": 5
 	},
 	{
@@ -164,19 +164,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5376,
+		"ips": 5361,
 		"common": 21
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 41963,
+		"ips": 41962,
 		"common": 42
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13088,
+		"ips": 13082,
 		"common": 22
 	},
 	{
@@ -272,19 +272,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13409,
+		"ips": 13398,
 		"common": 23
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 213283,
+		"ips": 213289,
 		"common": 53
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38677,
+		"ips": 38680,
 		"common": 1
 	},
 	{
@@ -296,8 +296,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42980,
-		"common": 440
+		"ips": 43060,
+		"common": 441
 	},
 	{
 		"name": "firehol_level3",
@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25416,
+		"ips": 25419,
 		"common": 1
 	},
 	{
@@ -399,7 +399,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "iblocklist_isp_comcast",
@@ -502,6 +502,12 @@
 		"category": "spam",
 		"ips": 32568,
 		"common": 12
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 4109,
+		"common": 1
 	},
 	{
 		"name": "php_commenters",
