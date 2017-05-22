@@ -128,7 +128,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 350,
+		"ips": 357,
 		"common": 13
 	},
 	{
@@ -452,13 +452,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 25369,
+		"ips": 25334,
 		"common": 20
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 22509,
+		"ips": 22477,
 		"common": 10
 	},
 	{
@@ -770,14 +770,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38925,
+		"ips": 38908,
 		"common": 17
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654747511,
-		"common": 282
+		"ips": 654747516,
+		"common": 281
 	},
 	{
 		"name": "firehol_level2",
@@ -800,7 +800,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25670,
+		"ips": 25653,
 		"common": 6
 	},
 	{
@@ -1316,7 +1316,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4907,
+		"ips": 4908,
 		"common": 147
 	},
 	{
@@ -1388,19 +1388,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1932,
+		"ips": 1937,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11832,
+		"ips": 11814,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4311,
+		"ips": 4315,
 		"common": 2
 	},
 	{
@@ -1460,13 +1460,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3065,
+		"ips": 3064,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 798,
+		"ips": 796,
 		"common": 1
 	},
 	{
@@ -1590,6 +1590,12 @@
 		"common": 4
 	},
 	{
+		"name": "urandomusto_rdp",
+		"category": "attacks",
+		"ips": 191,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
 		"ips": 271,
@@ -1598,13 +1604,13 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 447,
-		"common": 2
+		"ips": 442,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 142,
+		"ips": 141,
 		"common": 3
 	},
 	{
