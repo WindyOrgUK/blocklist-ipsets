@@ -33,7 +33,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738250,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "hphosts_ats",
@@ -45,7 +45,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 25327,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "hphosts_exp",
@@ -84,6 +84,12 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762625887,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
@@ -99,7 +105,7 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "jigsaw_malware",
