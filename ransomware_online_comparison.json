@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11031,
+		"ips": 11019,
 		"common": 4
 	},
 	{
@@ -104,7 +104,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 326790,
+		"ips": 326836,
 		"common": 1
 	},
 	{
@@ -128,8 +128,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654747499,
-		"common": 2
+		"ips": 654747501,
+		"common": 4
 	},
 	{
 		"name": "firehol_level2",
@@ -146,20 +146,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587309,
+		"ips": 9587300,
 		"common": 13
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27059,
-		"common": 168
+		"ips": 27061,
+		"common": 170
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738250,
-		"common": 142
+		"common": 143
 	},
 	{
 		"name": "greensnow",
@@ -177,7 +177,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 25327,
-		"common": 141
+		"common": 142
 	},
 	{
 		"name": "hphosts_fsa",
@@ -201,7 +201,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "iblocklist_edu",
@@ -272,7 +272,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32112,
+		"ips": 32273,
 		"common": 1
 	},
 	{
@@ -309,19 +309,25 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4906,
-		"common": 168
+		"ips": 4908,
+		"common": 170
+	},
+	{
+		"name": "ransomware_locky_ps",
+		"category": "malware",
+		"ips": 7,
+		"common": 1
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11800,
-		"common": 2
+		"ips": 11802,
+		"common": 4
 	},
 	{
 		"name": "sorbs_dul",
@@ -393,7 +399,7 @@
 		"name": "urlvir",
 		"category": "malware",
 		"ips": 270,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "vxvault",
