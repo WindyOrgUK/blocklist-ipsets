@@ -296,32 +296,32 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6986,
-		"common": 962
+		"ips": 6967,
+		"common": 959
 	},
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 62,
-		"common": 24
+		"ips": 66,
+		"common": 23
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 994,
-		"common": 230
+		"ips": 992,
+		"common": 224
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15781,
+		"ips": 15797,
 		"common": 869
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5100,
-		"common": 623
+		"ips": 5105,
+		"common": 622
 	},
 	{
 		"name": "botvrij_dst",
@@ -362,20 +362,20 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2480,
-		"common": 156
+		"ips": 2475,
+		"common": 153
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 5795,
-		"common": 197
+		"ips": 5815,
+		"common": 198
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 49956,
-		"common": 897
+		"common": 898
 	},
 	{
 		"name": "cleantalk_7d",
@@ -386,49 +386,49 @@
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 480,
+		"ips": 475,
 		"common": 19
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1202,
-		"common": 41
+		"ips": 1209,
+		"common": 42
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19209,
-		"common": 349
+		"ips": 19208,
+		"common": 350
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4939,
+		"ips": 4941,
 		"common": 144
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 137
+		"common": 134
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5235,
+		"ips": 5254,
 		"common": 179
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 42025,
+		"ips": 42030,
 		"common": 673
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13254,
+		"ips": 13248,
 		"common": 228
 	},
 	{
@@ -782,20 +782,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 10562,
-		"common": 606
+		"ips": 10595,
+		"common": 607
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 213995,
-		"common": 1781
+		"ips": 214004,
+		"common": 1782
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39079,
-		"common": 1546
+		"ips": 38956,
+		"common": 1544
 	},
 	{
 		"name": "firehol_level1",
@@ -806,13 +806,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41130,
-		"common": 8564
+		"ips": 41118,
+		"common": 8566
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586928,
+		"ips": 9586944,
 		"common": 2242
 	},
 	{
@@ -860,8 +860,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1969,
-		"common": 300
+		"ips": 1960,
+		"common": 304
 	},
 	{
 		"name": "haley_ssh",
@@ -1406,25 +1406,25 @@
 	{
 		"name": "proxyrss",
 		"category": "anonymizers",
-		"ips": 916,
-		"common": 49
+		"ips": 977,
+		"common": 53
 	},
 	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 1914,
+		"ips": 1915,
 		"common": 72
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 5241,
+		"ips": 5237,
 		"common": 119
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 3409,
+		"ips": 3401,
 		"common": 113
 	},
 	{
@@ -1478,7 +1478,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4901,
+		"ips": 4902,
 		"common": 39
 	},
 	{
@@ -1590,21 +1590,27 @@
 		"common": 21818
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2024,
+		"ips": 2027,
 		"common": 42
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11918,
+		"ips": 11923,
 		"common": 67
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4233,
+		"ips": 4240,
 		"common": 57
 	},
 	{
