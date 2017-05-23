@@ -21,7 +21,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 34732,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -33,13 +33,13 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 14763,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1371,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -57,13 +57,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 25462,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 22489,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -99,13 +99,13 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 7168,
-		"common": 9
+		"ips": 7424,
+		"common": 10
 	},
 	{
 		"name": "dshield_30d",
@@ -132,12 +132,6 @@
 		"common": 12
 	},
 	{
-		"name": "et_compromised",
-		"category": "attacks",
-		"ips": 1453,
-		"common": 1
-	},
-	{
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
@@ -153,24 +147,24 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 654754701,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43069,
+		"ips": 43324,
 		"common": 19
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132867,
-		"common": 43
+		"common": 42
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588441,
+		"ips": 9588432,
 		"common": 1
 	},
 	{
@@ -255,7 +249,7 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "jigsaw_malware",
@@ -273,7 +267,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 4109,
-		"common": 29
+		"common": 28
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -285,7 +279,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2698,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -297,7 +291,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "sorbs_web",
@@ -345,7 +339,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 39574,
-		"common": 63
+		"common": 62
 	},
 	{
 		"name": "urandomusto_dns",

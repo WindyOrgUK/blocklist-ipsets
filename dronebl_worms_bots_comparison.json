@@ -26,8 +26,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 461,
-		"common": 16
+		"ips": 462,
+		"common": 17
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12178,
+		"ips": 12169,
 		"common": 126
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43069,
+		"ips": 43324,
 		"common": 239
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588441,
+		"ips": 9588432,
 		"common": 572
 	},
 	{
@@ -1370,7 +1370,13 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 445,
+		"ips": 439,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 431,
 		"common": 1
 	},
 	{
@@ -1394,8 +1400,8 @@
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 141,
-		"common": 17
+		"ips": 143,
+		"common": 18
 	},
 	{
 		"name": "xroxy_30d",
