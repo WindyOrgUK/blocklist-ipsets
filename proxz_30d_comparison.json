@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11238,
+		"ips": 11200,
 		"common": 116
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587558,
+		"ips": 9587521,
 		"common": 610
 	},
 	{
@@ -992,8 +992,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 172,
+		"ips": 220,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 212,
+		"common": 8
 	},
 	{
 		"name": "xroxy",
