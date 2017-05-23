@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32701,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "atlas_phishing",
@@ -92,19 +92,19 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 50264,
+		"ips": 50267,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19495,
+		"ips": 19491,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 41990,
+		"ips": 41993,
 		"common": 2
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 214696,
+		"ips": 214700,
 		"common": 10
 	},
 	{
@@ -332,8 +332,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654754693,
-		"common": 11800
+		"ips": 654754694,
+		"common": 11801
 	},
 	{
 		"name": "firehol_level2",
@@ -344,13 +344,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132680,
+		"ips": 132681,
 		"common": 131
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587671,
+		"ips": 9587646,
 		"common": 10
 	},
 	{
@@ -362,14 +362,14 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27165,
-		"common": 127
+		"ips": 27166,
+		"common": 128
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738247,
-		"common": 161
+		"common": 162
 	},
 	{
 		"name": "gofferje_sip",
@@ -578,8 +578,8 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 169,
-		"common": 2
+		"ips": 170,
+		"common": 3
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
@@ -621,7 +621,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "sorbs_web",
@@ -681,7 +681,7 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "taichung",
@@ -694,6 +694,12 @@
 		"category": "malware",
 		"ips": 6383,
 		"common": 65
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 39574,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
