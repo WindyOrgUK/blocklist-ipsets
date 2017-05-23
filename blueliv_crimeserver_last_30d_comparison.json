@@ -68,8 +68,8 @@
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 44,
-		"common": 6
+		"ips": 66,
+		"common": 11
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -188,7 +188,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12195,
+		"ips": 12179,
 		"common": 265
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 326840,
+		"ips": 326839,
 		"common": 12
 	},
 	{
@@ -530,13 +530,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11118,
+		"ips": 11152,
 		"common": 12
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 213308,
+		"ips": 213337,
 		"common": 59
 	},
 	{
@@ -566,7 +566,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588443,
+		"ips": 9588428,
 		"common": 1645
 	},
 	{
@@ -974,8 +974,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32170,
-		"common": 15
+		"ips": 32071,
+		"common": 16
 	},
 	{
 		"name": "nullsecure",
@@ -996,15 +996,27 @@
 		"common": 1
 	},
 	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_commenters_1d",
+		"category": "spam",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 946,
+		"ips": 968,
 		"common": 3
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 271,
+		"ips": 313,
 		"common": 2
 	},
 	{
