@@ -32,8 +32,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 322,
-		"common": 49
+		"ips": 319,
+		"common": 45
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -830,8 +830,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 33709,
-		"common": 335
+		"ips": 33445,
+		"common": 347
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -854,7 +854,7 @@
 	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
-		"ips": 46,
+		"ips": 47,
 		"common": 2
 	},
 	{
@@ -1352,8 +1352,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 116,
+		"ips": 123,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 159,
+		"common": 12
 	},
 	{
 		"name": "urandomusto_telnet",
