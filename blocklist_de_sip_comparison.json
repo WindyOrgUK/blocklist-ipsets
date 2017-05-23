@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32621,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "bds_atif",
@@ -39,12 +39,12 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 33754,
-		"common": 92
+		"common": 94
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11837,
+		"ips": 11861,
 		"common": 2
 	},
 	{
@@ -76,6 +76,12 @@
 		"category": "attacks",
 		"ips": 394,
 		"common": 14
+	},
+	{
+		"name": "dataplane_sipregistration",
+		"category": "attacks",
+		"ips": 42,
+		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -129,25 +135,25 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 42071,
-		"common": 92
+		"common": 94
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132675,
+		"ips": 132679,
 		"common": 12
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588131,
+		"ips": 9588154,
 		"common": 7
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738247,
-		"common": 24
+		"common": 26
 	},
 	{
 		"name": "gofferje_sip",
@@ -249,7 +255,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 24
+		"common": 26
 	},
 	{
 		"name": "sorbs_dul",
@@ -315,18 +321,18 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 39574,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 144,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 27150,
-		"common": 50
+		"common": 51
 	}
 ]
