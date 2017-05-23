@@ -248,7 +248,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11235,
+		"ips": 11234,
 		"common": 198
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 326926,
+		"ips": 326927,
 		"common": 3008
 	},
 	{
@@ -818,14 +818,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133486,
-		"common": 2483
+		"ips": 132909,
+		"common": 2482
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587595,
-		"common": 179345
+		"ips": 9587599,
+		"common": 179346
 	},
 	{
 		"name": "firehol_proxies",
@@ -878,8 +878,8 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 20155,
-		"common": 318
+		"ips": 20160,
+		"common": 319
 	},
 	{
 		"name": "hphosts_ats",
@@ -1472,7 +1472,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4908,
+		"ips": 4907,
 		"common": 85
 	},
 	{
@@ -1808,7 +1808,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 50,
+		"ips": 59,
 		"common": 2
 	},
 	{
@@ -1818,21 +1818,15 @@
 		"common": 1
 	},
 	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 187,
-		"common": 7
-	},
-	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 434,
-		"common": 6
+		"ips": 438,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 79,
+		"ips": 84,
 		"common": 4
 	},
 	{
@@ -1854,21 +1848,27 @@
 		"common": 11
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 54,
+		"common": 1
+	},
+	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 136,
+		"ips": 131,
 		"common": 2
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 413,
+		"ips": 411,
 		"common": 7
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 246,
+		"ips": 244,
 		"common": 3
 	},
 	{
