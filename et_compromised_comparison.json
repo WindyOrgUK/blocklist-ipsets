@@ -80,31 +80,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33718,
+		"ips": 33813,
 		"common": 336
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2368,
+		"ips": 2373,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19068,
+		"ips": 19136,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12985,
-		"common": 334
+		"ips": 13018,
+		"common": 335
+	},
+	{
+		"name": "blocklist_de_strongips",
+		"category": "attacks",
+		"ips": 137,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11143,
+		"ips": 11168,
 		"common": 42
 	},
 	{
@@ -386,7 +392,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43595,
+		"ips": 43690,
 		"common": 341
 	},
 	{
@@ -398,7 +404,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587465,
+		"ips": 9587489,
 		"common": 344
 	},
 	{
@@ -576,27 +582,21 @@
 		"common": 1
 	},
 	{
-		"name": "ipblacklistcloud_recent",
-		"category": "abuse",
-		"ips": 32,
-		"common": 1
-	},
-	{
 		"name": "ipblacklistcloud_recent_1d",
 		"category": "abuse",
-		"ips": 32,
+		"ips": 64,
 		"common": 1
 	},
 	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
-		"ips": 663,
+		"ips": 690,
 		"common": 1
 	},
 	{
 		"name": "ipblacklistcloud_recent_7d",
 		"category": "abuse",
-		"ips": 158,
+		"ips": 189,
 		"common": 1
 	},
 	{
@@ -638,7 +638,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36350,
+		"ips": 36355,
 		"common": 2
 	},
 	{
