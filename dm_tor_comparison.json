@@ -62,13 +62,13 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 1942,
+		"ips": 1937,
 		"common": 43
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 2890,
+		"ips": 2886,
 		"common": 56
 	},
 	{
@@ -86,8 +86,8 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5670,
-		"common": 101
+		"ips": 5719,
+		"common": 100
 	},
 	{
 		"name": "bitcoin_nodes_1d",
@@ -98,7 +98,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22312,
+		"ips": 22316,
 		"common": 145
 	},
 	{
@@ -110,25 +110,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33725,
+		"ips": 33638,
 		"common": 12
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8945,
+		"ips": 8947,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19259,
+		"ips": 19253,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12801,
+		"ips": 12718,
 		"common": 9
 	},
 	{
@@ -488,7 +488,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43607,
+		"ips": 43518,
 		"common": 23
 	},
 	{
@@ -1016,7 +1016,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4459,
+		"ips": 4460,
 		"common": 1
 	},
 	{
@@ -1192,6 +1192,12 @@
 		"category": "malware",
 		"ips": 3,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 309,
+		"common": 3
 	},
 	{
 		"name": "voipbl",
