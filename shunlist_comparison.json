@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11293,
+		"ips": 11282,
 		"common": 9
 	},
 	{
@@ -266,8 +266,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 14005,
-		"common": 1
+		"ips": 14073,
+		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587669,
+		"ips": 9587652,
 		"common": 36
 	},
 	{
@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27232,
+		"ips": 27233,
 		"common": 8
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32288,
+		"ips": 31992,
 		"common": 1
 	},
 	{
@@ -584,7 +584,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4909,
+		"ips": 4908,
 		"common": 2
 	},
 	{
@@ -652,6 +652,12 @@
 		"category": "abuse",
 		"ips": 291042,
 		"common": 28
+	},
+	{
+		"name": "stopforumspam_1d",
+		"category": "abuse",
+		"ips": 7339,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_30d",
