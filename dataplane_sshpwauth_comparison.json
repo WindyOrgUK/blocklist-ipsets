@@ -140,8 +140,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12072,
-		"common": 381
+		"ips": 12071,
+		"common": 380
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -452,8 +452,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588337,
-		"common": 1362
+		"ips": 9588336,
+		"common": 1361
 	},
 	{
 		"name": "firehol_proxies",
@@ -746,8 +746,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29007,
-		"common": 203
+		"ips": 29309,
+		"common": 202
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1040,14 +1040,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 318,
+		"ips": 323,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 325,
+		"ips": 295,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 448,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
