@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11277,
+		"ips": 11265,
 		"common": 73
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 326922,
+		"ips": 326923,
 		"common": 105
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 41953,
+		"ips": 41954,
 		"common": 54
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587599,
+		"ips": 9587587,
 		"common": 1906
 	},
 	{
@@ -686,8 +686,8 @@
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
-		"ips": 126399861,
-		"common": 303
+		"ips": 139023007,
+		"common": 349
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -830,7 +830,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4116,
+		"ips": 4126,
 		"common": 34
 	},
 	{
@@ -848,13 +848,13 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 160,
+		"ips": 162,
 		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2645,
+		"ips": 2646,
 		"common": 45
 	},
 	{
@@ -948,9 +948,15 @@
 		"common": 88
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1996,
+		"ips": 1984,
 		"common": 1
 	},
 	{
@@ -962,7 +968,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4459,
+		"ips": 4456,
 		"common": 1
 	},
 	{
@@ -1100,19 +1106,19 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1018,
+		"ips": 1017,
 		"common": 98
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2116,
+		"ips": 2114,
 		"common": 104
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1275,
+		"ips": 1272,
 		"common": 99
 	},
 	{
