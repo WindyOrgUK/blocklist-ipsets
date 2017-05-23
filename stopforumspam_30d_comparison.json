@@ -374,7 +374,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 672,
+		"ips": 670,
 		"common": 20
 	},
 	{
@@ -584,7 +584,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38519,
+		"ips": 38527,
 		"common": 4737
 	},
 	{
@@ -614,7 +614,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25222,
+		"ips": 25230,
 		"common": 4273
 	},
 	{
@@ -1323,24 +1323,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 14
+		"common": 18
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2019,
+		"ips": 2021,
 		"common": 346
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11465,
+		"ips": 11461,
 		"common": 795
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4527,
+		"ips": 4514,
 		"common": 561
 	},
 	{
@@ -1407,25 +1407,25 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 53
+		"common": 42
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 246,
-		"common": 119
+		"ips": 262,
+		"common": 121
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3071,
+		"ips": 3083,
 		"common": 887
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 793,
-		"common": 298
+		"ips": 805,
+		"common": 297
 	},
 	{
 		"name": "stopforumspam",
@@ -1442,8 +1442,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5171,
-		"common": 4832
+		"ips": 5320,
+		"common": 4879
 	},
 	{
 		"name": "stopforumspam_365d",
@@ -1552,12 +1552,6 @@
 		"category": "attacks",
 		"ips": 269,
 		"common": 1
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 445,
-		"common": 3
 	},
 	{
 		"name": "voipbl",

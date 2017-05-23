@@ -386,7 +386,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38519,
+		"ips": 38527,
 		"common": 28
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25222,
+		"ips": 25230,
 		"common": 14
 	},
 	{
@@ -848,7 +848,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11465,
+		"ips": 11461,
 		"common": 1
 	},
 	{
@@ -914,7 +914,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5171,
+		"ips": 5320,
 		"common": 24
 	},
 	{
@@ -1010,19 +1010,25 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 185,
+		"ips": 188,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 445,
-		"common": 20
+		"ips": 190,
+		"common": 8
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 441,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 91,
+		"ips": 89,
 		"common": 2
 	},
 	{
