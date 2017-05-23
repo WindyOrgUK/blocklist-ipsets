@@ -44,7 +44,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 406,
+		"ips": 407,
 		"common": 78
 	},
 	{
@@ -182,8 +182,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12073,
-		"common": 1791
+		"ips": 12059,
+		"common": 1787
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -662,7 +662,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38607,
+		"ips": 38610,
 		"common": 8124
 	},
 	{
@@ -686,13 +686,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588341,
-		"common": 15984
+		"ips": 9588329,
+		"common": 15982
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25255,
+		"ips": 25258,
 		"common": 7454
 	},
 	{
@@ -1118,8 +1118,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31269,
-		"common": 976
+		"ips": 30565,
+		"common": 975
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1364,7 +1364,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4907,
+		"ips": 4906,
 		"common": 20
 	},
 	{
@@ -1467,7 +1467,7 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 33
+		"common": 37
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -1478,13 +1478,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11486,
+		"ips": 11489,
 		"common": 1836
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4531,
+		"ips": 4534,
 		"common": 1084
 	},
 	{
@@ -1568,8 +1568,8 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 254,
-		"common": 158
+		"ips": 251,
+		"common": 157
 	},
 	{
 		"name": "sslproxies_30d",
@@ -1580,8 +1580,8 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 788,
-		"common": 393
+		"ips": 785,
+		"common": 392
 	},
 	{
 		"name": "stopforumspam",
@@ -1718,8 +1718,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 446,
-		"common": 14
+		"ips": 443,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 444,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
