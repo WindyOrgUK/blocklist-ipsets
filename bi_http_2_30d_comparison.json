@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11211,
+		"ips": 11192,
 		"common": 36
 	},
 	{
@@ -138,21 +138,27 @@
 		"common": 21
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 52,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1037,
+		"ips": 1041,
 		"common": 18
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15710,
+		"ips": 15707,
 		"common": 25
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4864,
+		"ips": 4856,
 		"common": 25
 	},
 	{
@@ -344,7 +350,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13298,
+		"ips": 13299,
 		"common": 31
 	},
 	{
@@ -362,14 +368,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654754676,
+		"ips": 654754681,
 		"common": 13
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43856,
-		"common": 46
+		"ips": 43857,
+		"common": 45
 	},
 	{
 		"name": "firehol_level3",
@@ -380,7 +386,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587537,
+		"ips": 9587515,
 		"common": 82
 	},
 	{
@@ -422,8 +428,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1421,
-		"common": 24
+		"ips": 1424,
+		"common": 23
 	},
 	{
 		"name": "haley_ssh",
