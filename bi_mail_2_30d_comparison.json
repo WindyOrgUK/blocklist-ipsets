@@ -27,7 +27,7 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 310,
-		"common": 38
+		"common": 37
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -62,26 +62,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33595,
-		"common": 127
+		"ips": 33528,
+		"common": 126
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1908,
-		"common": 13
+		"ips": 1834,
+		"common": 10
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17085,
-		"common": 86
+		"ips": 16806,
+		"common": 75
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 6094,
-		"common": 41
+		"ips": 6730,
+		"common": 51
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38363,
+		"ips": 38354,
 		"common": 82
 	},
 	{
@@ -320,8 +320,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43235,
-		"common": 131
+		"ips": 43168,
+		"common": 130
 	},
 	{
 		"name": "firehol_level3",
@@ -338,13 +338,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25099,
+		"ips": 25090,
 		"common": 82
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27231,
+		"ips": 27232,
 		"common": 4
 	},
 	{
@@ -744,15 +744,21 @@
 		"common": 15
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1946,
+		"ips": 1943,
 		"common": 39
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11233,
+		"ips": 11220,
 		"common": 74
 	},
 	{
@@ -806,7 +812,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3172,
+		"ips": 3173,
 		"common": 3
 	},
 	{
@@ -886,12 +892,6 @@
 		"category": "reputation",
 		"ips": 39574,
 		"common": 22
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 159,
-		"common": 3
 	},
 	{
 		"name": "voipbl",
