@@ -2,7 +2,7 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 32701,
+		"ips": 32818,
 		"common": 53
 	},
 	{
@@ -68,8 +68,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 319,
-		"common": 311
+		"ips": 322,
+		"common": 313
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11104,
+		"ips": 11127,
 		"common": 108
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 310704,
+		"ips": 310722,
 		"common": 330
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587415,
+		"ips": 9587437,
 		"common": 2006
 	},
 	{
@@ -1352,8 +1352,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 109,
+		"ips": 113,
 		"common": 8
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 168,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 165,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",

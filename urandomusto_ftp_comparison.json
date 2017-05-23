@@ -2,7 +2,7 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 32701,
+		"ips": 32818,
 		"common": 5
 	},
 	{
@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 319,
+		"ips": 322,
 		"common": 1
 	},
 	{
@@ -51,25 +51,25 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 33663,
-		"common": 67
+		"common": 70
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 8948,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
 		"ips": 432,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
 		"ips": 442,
-		"common": 34
+		"common": 35
 	},
 	{
 		"name": "blocklist_de_imap",
@@ -84,6 +84,12 @@
 		"common": 17
 	},
 	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 12602,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
 		"ips": 138,
@@ -92,8 +98,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11104,
-		"common": 19
+		"ips": 11127,
+		"common": 20
 	},
 	{
 		"name": "ciarmy",
@@ -177,6 +183,12 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 24198,
+		"common": 2
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 21260,
 		"common": 1
 	},
 	{
@@ -188,7 +200,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 310704,
+		"ips": 310722,
 		"common": 1
 	},
 	{
@@ -267,7 +279,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 43307,
-		"common": 71
+		"common": 74
 	},
 	{
 		"name": "firehol_level3",
@@ -278,8 +290,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587415,
-		"common": 22
+		"ips": 9587437,
+		"common": 23
 	},
 	{
 		"name": "firehol_proxies",
@@ -309,7 +321,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1432,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "hphosts_emd",

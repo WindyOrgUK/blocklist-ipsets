@@ -2,7 +2,7 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 32701,
+		"ips": 32818,
 		"common": 65
 	},
 	{
@@ -44,8 +44,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 319,
-		"common": 72
+		"ips": 322,
+		"common": 74
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -182,8 +182,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11104,
-		"common": 1697
+		"ips": 11127,
+		"common": 1699
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -446,7 +446,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 310704,
+		"ips": 310722,
 		"common": 832
 	},
 	{
@@ -686,8 +686,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587415,
-		"common": 15885
+		"ips": 9587437,
+		"common": 15887
 	},
 	{
 		"name": "firehol_proxies",
@@ -1688,8 +1688,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 109,
+		"ips": 113,
 		"common": 8
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 168,
+		"common": 11
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 165,
+		"common": 11
 	},
 	{
 		"name": "urandomusto_malware",
