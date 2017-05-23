@@ -50,37 +50,37 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8976,
+		"ips": 8975,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 258,
+		"ips": 259,
 		"common": 24
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 452,
+		"ips": 450,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2419,
+		"ips": 2408,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18610,
-		"common": 168
+		"ips": 18599,
+		"common": 172
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14468,
+		"ips": 14381,
 		"common": 1
 	},
 	{
@@ -404,8 +404,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11667,
-		"common": 416
+		"ips": 11748,
+		"common": 422
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38496,
+		"ips": 38490,
 		"common": 4038
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25251,
+		"ips": 25246,
 		"common": 4061
 	},
 	{
@@ -957,24 +957,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 7
+		"common": 9
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2081,
-		"common": 234
+		"ips": 2069,
+		"common": 232
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11482,
+		"ips": 11476,
 		"common": 466
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4538,
+		"ips": 4525,
 		"common": 331
 	},
 	{
@@ -1034,8 +1034,8 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 257,
-		"common": 82
+		"ips": 250,
+		"common": 78
 	},
 	{
 		"name": "sslproxies_30d",
@@ -1064,8 +1064,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4947,
-		"common": 306
+		"ips": 5037,
+		"common": 313
 	},
 	{
 		"name": "stopforumspam_30d",

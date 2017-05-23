@@ -122,32 +122,38 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8976,
+		"ips": 8975,
 		"common": 3
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 428,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2419,
+		"ips": 2408,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18610,
+		"ips": 18599,
 		"common": 14
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 134,
+		"ips": 133,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14468,
-		"common": 5979
+		"ips": 14381,
+		"common": 5952
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -452,8 +458,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11667,
-		"common": 201
+		"ips": 11748,
+		"common": 202
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -464,7 +470,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38496,
+		"ips": 38490,
 		"common": 258
 	},
 	{
@@ -494,7 +500,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25251,
+		"ips": 25246,
 		"common": 89
 	},
 	{
@@ -1082,8 +1088,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4947,
-		"common": 149
+		"ips": 5037,
+		"common": 151
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1136,25 +1142,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 974,
+		"ips": 972,
 		"common": 250
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1023,
+		"ips": 1024,
 		"common": 255
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2114,
+		"ips": 2115,
 		"common": 266
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1278,
+		"ips": 1279,
 		"common": 264
 	},
 	{
