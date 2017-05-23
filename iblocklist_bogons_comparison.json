@@ -152,7 +152,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 328,
+		"ips": 327,
 		"common": 19
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11250,
+		"ips": 11246,
 		"common": 452
 	},
 	{
@@ -842,7 +842,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587558,
+		"ips": 9587554,
 		"common": 56397
 	},
 	{
@@ -1766,8 +1766,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 113,
-		"common": 2
+		"ips": 116,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 174,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_malware",
