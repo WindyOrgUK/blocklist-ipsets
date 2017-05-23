@@ -27,13 +27,13 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 5883,
-		"common": 445
+		"common": 440
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 1520,
-		"common": 451
+		"common": 446
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -51,13 +51,13 @@
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 438,
-		"common": 80
+		"common": 78
 	},
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 5205,
-		"common": 310
+		"common": 307
 	},
 	{
 		"name": "bi_voip_2_30d",
@@ -69,7 +69,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 34839,
-		"common": 183
+		"common": 179
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -99,7 +99,7 @@
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 18525,
-		"common": 40
+		"common": 38
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -111,7 +111,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 14811,
-		"common": 122
+		"common": 120
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -123,7 +123,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 12172,
-		"common": 66
+		"common": 65
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -249,7 +249,7 @@
 		"name": "darklist_de",
 		"category": "attacks",
 		"ips": 14178,
-		"common": 76
+		"common": 75
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -261,13 +261,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 25423,
-		"common": 193
+		"common": 191
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 22446,
-		"common": 154
+		"common": 153
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -315,7 +315,7 @@
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
 		"ips": 41948,
-		"common": 18
+		"common": 16
 	},
 	{
 		"name": "dronebl_worms_bots",
@@ -411,19 +411,19 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 43425,
-		"common": 205
+		"common": 201
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132867,
-		"common": 109
+		"common": 108
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9588427,
-		"common": 211
+		"common": 210
 	},
 	{
 		"name": "firehol_proxies",
@@ -471,7 +471,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 20138,
-		"common": 131
+		"common": 130
 	},
 	{
 		"name": "hphosts_psh",
@@ -519,12 +519,6 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_isp_suddenlink",
-		"category": "organizations",
-		"ips": 458752,
 		"common": 1
 	},
 	{
@@ -591,7 +585,7 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 41
+		"common": 40
 	},
 	{
 		"name": "jigsaw_malware",
@@ -603,7 +597,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1337564,
-		"common": 44
+		"common": 42
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -621,7 +615,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 31559,
-		"common": 26
+		"common": 24
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -861,7 +855,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 21231,
-		"common": 41
+		"common": 40
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -897,19 +891,19 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 35223,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 51
+		"common": 49
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 65
+		"common": 63
 	},
 	{
 		"name": "spamhaus_drop",
@@ -981,7 +975,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 21241,
-		"common": 41
+		"common": 40
 	},
 	{
 		"name": "threatcrowd",
@@ -1064,14 +1058,8 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 439,
-		"common": 11
-	},
-	{
-		"name": "urandomusto_telnet",
-		"category": "attacks",
-		"ips": 431,
-		"common": 1
+		"ips": 438,
+		"common": 13
 	},
 	{
 		"name": "urandomusto_vnc",
