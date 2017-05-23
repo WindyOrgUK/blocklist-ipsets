@@ -158,8 +158,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11280,
-		"common": 244
+		"ips": 11300,
+		"common": 243
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -518,14 +518,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132652,
+		"ips": 132663,
 		"common": 213
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587657,
-		"common": 511
+		"ips": 9587678,
+		"common": 510
 	},
 	{
 		"name": "firehol_proxies",
@@ -770,8 +770,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32509,
-		"common": 451
+		"ips": 32288,
+		"common": 450
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1022,44 +1022,50 @@
 	{
 		"name": "ri_connect_proxies",
 		"category": "anonymizers",
-		"ips": 147,
-		"common": 3
+		"ips": 150,
+		"common": 1
 	},
 	{
 		"name": "ri_connect_proxies_1d",
 		"category": "anonymizers",
-		"ips": 303,
+		"ips": 285,
 		"common": 4
 	},
 	{
 		"name": "ri_connect_proxies_30d",
 		"category": "anonymizers",
-		"ips": 3077,
+		"ips": 3056,
 		"common": 36
 	},
 	{
 		"name": "ri_connect_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1113,
-		"common": 17
+		"ips": 1103,
+		"common": 16
+	},
+	{
+		"name": "ri_web_proxies",
+		"category": "anonymizers",
+		"ips": 143,
+		"common": 2
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 367,
-		"common": 5
+		"ips": 453,
+		"common": 7
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 4044,
-		"common": 58
+		"ips": 4078,
+		"common": 59
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1492,
-		"common": 34
+		"ips": 1543,
+		"common": 36
 	},
 	{
 		"name": "sblam",
@@ -1238,7 +1244,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21270,
+		"ips": 21278,
 		"common": 17
 	},
 	{
@@ -1292,7 +1298,7 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 28,
+		"ips": 32,
 		"common": 1
 	},
 	{
