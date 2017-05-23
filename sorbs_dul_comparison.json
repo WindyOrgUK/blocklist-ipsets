@@ -276,22 +276,28 @@
 		"common": 512
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 26,
+		"common": 3
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1024,
-		"common": 53
+		"ips": 1020,
+		"common": 55
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15693,
+		"ips": 15681,
 		"common": 1045
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4840,
-		"common": 266
+		"ips": 4839,
+		"common": 268
 	},
 	{
 		"name": "bruteforceblocker",
@@ -440,7 +446,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 396,
+		"ips": 394,
 		"common": 1
 	},
 	{
@@ -458,14 +464,14 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 656,
-		"common": 55
+		"ips": 658,
+		"common": 56
 	},
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7009,
-		"common": 642
+		"ips": 7025,
+		"common": 648
 	},
 	{
 		"name": "dragon_http",
@@ -494,8 +500,8 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 310686,
-		"common": 50500
+		"ips": 310709,
+		"common": 50503
 	},
 	{
 		"name": "dronebl_autorooting_worms",
@@ -722,8 +728,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13522,
-		"common": 789
+		"ips": 13518,
+		"common": 790
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -734,8 +740,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38363,
-		"common": 3246
+		"ips": 38427,
+		"common": 3264
 	},
 	{
 		"name": "firehol_level1",
@@ -758,7 +764,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587421,
+		"ips": 9587410,
 		"common": 25368
 	},
 	{
@@ -806,7 +812,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1426,
+		"ips": 1429,
 		"common": 51
 	},
 	{
@@ -1208,8 +1214,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35854,
-		"common": 3815
+		"ips": 35675,
+		"common": 3784
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1778,7 +1784,7 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 19,
+		"ips": 20,
 		"common": 1
 	},
 	{
