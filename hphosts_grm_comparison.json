@@ -48,9 +48,27 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 33781,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8933,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_bruteforce",
+		"category": "attacks",
+		"ips": 426,
+		"common": 1
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11802,
+		"ips": 11787,
 		"common": 5
 	},
 	{
@@ -214,6 +232,12 @@
 		"category": "attacks",
 		"ips": 654754695,
 		"common": 14
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 42113,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
