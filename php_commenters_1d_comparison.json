@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11861,
+		"ips": 11827,
 		"common": 7
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588154,
+		"ips": 9588126,
 		"common": 54
 	},
 	{
@@ -452,8 +452,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30975,
-		"common": 9
+		"ips": 32614,
+		"common": 10
 	},
 	{
 		"name": "nullsecure",
@@ -668,7 +668,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1973,
+		"ips": 1971,
 		"common": 3
 	},
 	{
@@ -680,7 +680,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4469,
+		"ips": 4461,
 		"common": 4
 	},
 	{
@@ -836,7 +836,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 12,
+		"ips": 88,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 237,
 		"common": 1
 	}
 ]

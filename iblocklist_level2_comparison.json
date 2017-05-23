@@ -122,7 +122,7 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 2073,
+		"ips": 2071,
 		"common": 56
 	},
 	{
@@ -134,8 +134,8 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 7223,
-		"common": 176
+		"ips": 7164,
+		"common": 174
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
@@ -146,25 +146,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5690,
-		"common": 152
+		"ips": 5734,
+		"common": 153
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7402,
+		"ips": 7416,
 		"common": 170
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22241,
+		"ips": 22249,
 		"common": 289
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11462,
+		"ips": 11467,
 		"common": 222
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11861,
+		"ips": 11827,
 		"common": 76
 	},
 	{
@@ -686,7 +686,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588154,
+		"ips": 9588126,
 		"common": 133187
 	},
 	{
@@ -1022,8 +1022,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30975,
-		"common": 107
+		"ips": 32614,
+		"common": 113
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1326,9 +1326,15 @@
 		"common": 10
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1973,
+		"ips": 1971,
 		"common": 35
 	},
 	{
@@ -1340,7 +1346,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4469,
+		"ips": 4461,
 		"common": 68
 	},
 	{
@@ -1521,6 +1527,12 @@
 		"name": "urandomusto_dns",
 		"category": "attacks",
 		"ips": 135,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 237,
 		"common": 1
 	},
 	{
