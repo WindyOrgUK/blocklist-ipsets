@@ -122,7 +122,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587613,
+		"ips": 9587640,
 		"common": 1
 	},
 	{
@@ -177,7 +177,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "iblocklist_level3",
@@ -198,6 +198,12 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4346058,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
 		"ips": 24705024,
@@ -213,7 +219,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "pushing_inertia_blocklist",
