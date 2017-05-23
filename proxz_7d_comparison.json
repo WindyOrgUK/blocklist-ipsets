@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 310,
+		"ips": 309,
 		"common": 3
 	},
 	{
@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11282,
+		"ips": 11303,
 		"common": 66
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38363,
+		"ips": 38362,
 		"common": 1047
 	},
 	{
@@ -320,19 +320,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587652,
+		"ips": 9587672,
 		"common": 308
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25099,
+		"ips": 25098,
 		"common": 1051
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27233,
+		"ips": 27232,
 		"common": 1
 	},
 	{
@@ -400,6 +400,12 @@
 		"category": "organizations",
 		"ips": 15015936,
 		"common": 2
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762509239,
+		"common": 59
 	},
 	{
 		"name": "iblocklist_level2",
@@ -645,25 +651,25 @@
 		"name": "proxyspy",
 		"category": "anonymizers",
 		"ips": 300,
-		"common": 60
+		"common": 57
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1084,
-		"common": 183
+		"ips": 1104,
+		"common": 186
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6734,
+		"ips": 6733,
 		"common": 530
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2944,
-		"common": 385
+		"ips": 2941,
+		"common": 384
 	},
 	{
 		"name": "proxz",

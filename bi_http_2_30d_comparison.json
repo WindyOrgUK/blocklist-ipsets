@@ -50,8 +50,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 310,
-		"common": 61
+		"ips": 309,
+		"common": 60
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11282,
+		"ips": 11303,
 		"common": 35
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38363,
+		"ips": 38362,
 		"common": 25
 	},
 	{
@@ -386,19 +386,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587652,
+		"ips": 9587672,
 		"common": 82
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25099,
+		"ips": 25098,
 		"common": 23
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27233,
+		"ips": 27232,
 		"common": 64
 	},
 	{
@@ -454,6 +454,12 @@
 		"category": "organizations",
 		"ips": 227983648,
 		"common": 10
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762509239,
+		"common": 3
 	},
 	{
 		"name": "iblocklist_level2",

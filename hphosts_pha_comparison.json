@@ -98,8 +98,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11282,
-		"common": 10
+		"ips": 11303,
+		"common": 11
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -344,13 +344,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587652,
-		"common": 118
+		"ips": 9587672,
+		"common": 119
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27233,
+		"ips": 27232,
 		"common": 10
 	},
 	{
@@ -502,6 +502,12 @@
 		"category": "organizations",
 		"ips": 45121536,
 		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762509239,
+		"common": 80
 	},
 	{
 		"name": "iblocklist_level2",
