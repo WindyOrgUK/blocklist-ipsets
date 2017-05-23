@@ -51,25 +51,25 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 33638,
-		"common": 64
+		"common": 67
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 8947,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
 		"ips": 434,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
 		"ips": 447,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "blocklist_de_imap",
@@ -81,7 +81,7 @@
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 19253,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -93,7 +93,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 11165,
-		"common": 17
+		"common": 19
 	},
 	{
 		"name": "ciarmy",
@@ -267,7 +267,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 43518,
-		"common": 68
+		"common": 71
 	},
 	{
 		"name": "firehol_level3",
@@ -279,7 +279,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9587476,
-		"common": 20
+		"common": 22
 	},
 	{
 		"name": "firehol_proxies",
@@ -297,7 +297,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738249,
-		"common": 18
+		"common": 20
 	},
 	{
 		"name": "gofferje_sip",
@@ -309,13 +309,13 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1426,
-		"common": 26
+		"common": 28
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 25438,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -340,6 +340,12 @@
 		"category": "organizations",
 		"ips": 6138112,
 		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 112705447,
+		"common": 2
 	},
 	{
 		"name": "iblocklist_level3",
@@ -393,12 +399,12 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1372534,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36005,
+		"ips": 35854,
 		"common": 1
 	},
 	{
@@ -453,12 +459,12 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4907,
+		"ips": 4908,
 		"common": 5
 	},
 	{
