@@ -176,7 +176,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11317,
+		"ips": 11305,
 		"common": 870
 	},
 	{
@@ -644,8 +644,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38474,
-		"common": 6172
+		"ips": 38472,
+		"common": 6173
 	},
 	{
 		"name": "firehol_level1",
@@ -668,14 +668,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587646,
+		"ips": 9587635,
 		"common": 12289
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25227,
-		"common": 5593
+		"ips": 25225,
+		"common": 5594
 	},
 	{
 		"name": "firehol_webclient",
@@ -1280,26 +1280,26 @@
 	{
 		"name": "proxyspy",
 		"category": "anonymizers",
-		"ips": 300,
-		"common": 173
+		"ips": 299,
+		"common": 168
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1085,
-		"common": 622
+		"ips": 1070,
+		"common": 613
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6738,
-		"common": 2720
+		"ips": 6733,
+		"common": 2718
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2950,
-		"common": 1445
+		"ips": 2944,
+		"common": 1441
 	},
 	{
 		"name": "proxz",
@@ -1334,7 +1334,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4907,
+		"ips": 4909,
 		"common": 13
 	},
 	{
@@ -1644,16 +1644,22 @@
 		"common": 138
 	},
 	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 51,
+		"common": 2
+	},
+	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 88,
-		"common": 10
+		"ips": 172,
+		"common": 14
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 237,
-		"common": 9
+		"ips": 273,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_malware",
@@ -1682,14 +1688,14 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 55,
-		"common": 33
+		"ips": 54,
+		"common": 30
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 139,
-		"common": 92
+		"ips": 140,
+		"common": 93
 	},
 	{
 		"name": "xroxy_30d",
