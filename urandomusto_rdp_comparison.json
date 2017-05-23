@@ -111,13 +111,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29952,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 12800,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "dshield_top_1000",
@@ -159,7 +159,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132868,
-		"common": 43
+		"common": 42
 	},
 	{
 		"name": "firehol_level4",
@@ -297,7 +297,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "spamhaus_drop",
@@ -366,9 +366,21 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 446,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 444,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 90,
+		"ips": 91,
 		"common": 2
 	},
 	{
