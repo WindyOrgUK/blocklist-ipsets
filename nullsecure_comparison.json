@@ -45,7 +45,7 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 319,
-		"common": 23
+		"common": 21
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -86,7 +86,7 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 3279,
+		"ips": 3274,
 		"common": 1
 	},
 	{
@@ -104,25 +104,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5720,
+		"ips": 5710,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7377,
+		"ips": 7382,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22221,
+		"ips": 22224,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11436,
+		"ips": 11440,
 		"common": 3
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 326921,
+		"ips": 326922,
 		"common": 329
 	},
 	{
@@ -974,8 +974,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30685,
-		"common": 74
+		"ips": 30560,
+		"common": 71
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1286,7 +1286,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 323,
+		"ips": 324,
 		"common": 1
 	},
 	{
@@ -1298,7 +1298,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 870,
+		"ips": 871,
 		"common": 1
 	},
 	{
@@ -1438,6 +1438,18 @@
 		"category": "attacks",
 		"ips": 270,
 		"common": 7
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 181,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 444,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
