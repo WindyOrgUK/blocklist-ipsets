@@ -6,6 +6,12 @@
 		"common": 2
 	},
 	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 3874,
+		"common": 1
+	},
+	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 15313,
@@ -21,19 +27,19 @@
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 8704,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29952,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 12800,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "et_block",
@@ -56,14 +62,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43307,
-		"common": 2
+		"ips": 43311,
+		"common": 3
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133393,
-		"common": 2
+		"ips": 133394,
+		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
@@ -74,7 +80,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1432,
+		"ips": 1431,
 		"common": 1
 	},
 	{
@@ -84,22 +90,34 @@
 		"common": 2
 	},
 	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227983648,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
 		"common": 1
 	},
 	{
+		"name": "jigsaw_malware",
+		"category": "malware",
+		"ips": 59614,
+		"common": 1
+	},
+	{
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 4084,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2668,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -117,6 +135,6 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 39574,
-		"common": 3
+		"common": 4
 	}
 ]
