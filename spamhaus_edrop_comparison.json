@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38492,
+		"ips": 38485,
 		"common": 54
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25227,
+		"ips": 25226,
 		"common": 58
 	},
 	{
@@ -560,8 +560,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 295,
+		"ips": 293,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 446,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

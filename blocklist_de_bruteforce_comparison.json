@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38492,
+		"ips": 38485,
 		"common": 1
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25227,
+		"ips": 25226,
 		"common": 1
 	},
 	{
@@ -516,6 +516,12 @@
 		"common": 1
 	},
 	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 4096,
+		"common": 1
+	},
+	{
 		"name": "php_commenters_1d",
 		"category": "spam",
 		"ips": 100,
@@ -686,13 +692,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 323,
+		"ips": 325,
 		"common": 34
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 295,
-		"common": 22
+		"ips": 293,
+		"common": 23
 	}
 ]
