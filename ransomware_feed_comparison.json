@@ -92,31 +92,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34014,
+		"ips": 33891,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8961,
+		"ips": 8957,
 		"common": 12
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 441,
+		"ips": 438,
 		"common": 12
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 447,
+		"ips": 445,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18591,
+		"ips": 18563,
 		"common": 1
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1045,
+		"ips": 1048,
 		"common": 1
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4867,
+		"ips": 4859,
 		"common": 1
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12645,
+		"ips": 12647,
 		"common": 1
 	},
 	{
@@ -357,18 +357,18 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 654754711,
-		"common": 297
+		"common": 296
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42547,
+		"ips": 41950,
 		"common": 17
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132617,
+		"ips": 132618,
 		"common": 35
 	},
 	{
@@ -387,7 +387,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738241,
-		"common": 4047
+		"common": 4045
 	},
 	{
 		"name": "fullbogons",
@@ -408,12 +408,6 @@
 		"common": 4
 	},
 	{
-		"name": "greensnow",
-		"category": "attacks",
-		"ips": 1761,
-		"common": 1
-	},
-	{
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 20146,
@@ -423,13 +417,13 @@
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 15116,
-		"common": 111
+		"common": 110
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 25438,
-		"common": 3773
+		"common": 3771
 	},
 	{
 		"name": "hphosts_exp",
@@ -441,7 +435,7 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 28108,
-		"common": 491
+		"common": 490
 	},
 	{
 		"name": "hphosts_grm",
@@ -477,7 +471,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 27346,
-		"common": 698
+		"common": 697
 	},
 	{
 		"name": "hphosts_wrz",
@@ -579,7 +573,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 112705447,
-		"common": 56
+		"common": 55
 	},
 	{
 		"name": "iblocklist_level3",
@@ -680,8 +674,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30560,
-		"common": 14
+		"ips": 30310,
+		"common": 15
 	},
 	{
 		"name": "nullsecure",
@@ -711,7 +705,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 727
+		"common": 726
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -735,13 +729,13 @@
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 11800,
-		"common": 261
+		"common": 260
 	},
 	{
 		"name": "ransomware_torrentlocker_c2",
 		"category": "malware",
 		"ips": 63,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "shunlist",
@@ -873,7 +867,7 @@
 		"name": "urlvir",
 		"category": "malware",
 		"ips": 270,
-		"common": 21
+		"common": 20
 	},
 	{
 		"name": "voipbl",
