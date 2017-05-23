@@ -32,25 +32,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33682,
-		"common": 113
+		"ips": 33781,
+		"common": 114
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 268,
+		"ips": 270,
 		"common": 19
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18960,
-		"common": 93
+		"ips": 19035,
+		"common": 94
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13208,
+		"ips": 13230,
 		"common": 1
 	},
 	{
@@ -102,22 +102,28 @@
 		"common": 2
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 41,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1032,
-		"common": 37
+		"ips": 1037,
+		"common": 38
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15706,
-		"common": 534
+		"ips": 15710,
+		"common": 535
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4871,
-		"common": 200
+		"ips": 4864,
+		"common": 199
 	},
 	{
 		"name": "bruteforceblocker",
@@ -218,7 +224,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6998,
+		"ips": 6996,
 		"common": 2
 	},
 	{
@@ -326,7 +332,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13221,
+		"ips": 13223,
 		"common": 365
 	},
 	{
@@ -338,7 +344,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38484,
+		"ips": 38435,
 		"common": 3233
 	},
 	{
@@ -350,20 +356,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43811,
-		"common": 113
+		"ips": 43911,
+		"common": 114
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132983,
+		"ips": 132974,
 		"common": 105
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587521,
-		"common": 569
+		"ips": 9587525,
+		"common": 570
 	},
 	{
 		"name": "firehol_proxies",
@@ -584,8 +590,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36167,
-		"common": 38
+		"ips": 36626,
+		"common": 31
 	},
 	{
 		"name": "nullsecure",
