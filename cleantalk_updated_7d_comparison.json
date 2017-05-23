@@ -158,7 +158,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11289,
+		"ips": 11280,
 		"common": 440
 	},
 	{
@@ -243,42 +243,48 @@
 		"name": "cleantalk",
 		"category": "abuse",
 		"ips": 2717,
-		"common": 2000
+		"common": 2001
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6308,
-		"common": 4892
+		"ips": 6303,
+		"common": 4879
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 50447,
-		"common": 9170
+		"ips": 50462,
+		"common": 9176
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 16034,
-		"common": 10658
+		"ips": 16054,
+		"common": 10665
+	},
+	{
+		"name": "cleantalk_new",
+		"category": "abuse",
+		"ips": 717,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1433,
+		"ips": 1439,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19652,
+		"ips": 19665,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5447,
+		"ips": 5460,
 		"common": 1
 	},
 	{
@@ -296,14 +302,14 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5492,
-		"common": 5492
+		"ips": 5479,
+		"common": 5479
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 42035,
-		"common": 13170
+		"ips": 42037,
+		"common": 13177
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -429,7 +435,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24711129,
-		"common": 1432
+		"common": 1434
 	},
 	{
 		"name": "et_compromised",
@@ -447,7 +453,7 @@
 		"name": "et_spamhaus",
 		"category": "attacks",
 		"ips": 24705024,
-		"common": 1430
+		"common": 1432
 	},
 	{
 		"name": "et_tor",
@@ -464,14 +470,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 14006,
-		"common": 5540
+		"ips": 14002,
+		"common": 5527
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 214696,
-		"common": 12706
+		"ips": 214709,
+		"common": 12713
 	},
 	{
 		"name": "firehol_anonymous",
@@ -483,7 +489,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 654725765,
-		"common": 1438
+		"common": 1440
 	},
 	{
 		"name": "firehol_level2",
@@ -500,7 +506,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587662,
+		"ips": 9587657,
 		"common": 1722
 	},
 	{
@@ -519,7 +525,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738358,
-		"common": 3748
+		"common": 3749
 	},
 	{
 		"name": "gofferje_sip",
@@ -537,7 +543,7 @@
 		"name": "graphiclineweb",
 		"category": "abuse",
 		"ips": 330527,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "greensnow",
@@ -675,7 +681,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 678
+		"common": 679
 	},
 	{
 		"name": "iblocklist_level3",
@@ -729,7 +735,7 @@
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
 		"ips": 24705024,
-		"common": 1430
+		"common": 1432
 	},
 	{
 		"name": "iblocklist_spider",
@@ -1173,13 +1179,13 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 545
+		"common": 546
 	},
 	{
 		"name": "spamhaus_drop",
 		"category": "reputation",
 		"ips": 24717824,
-		"common": 1430
+		"common": 1432
 	},
 	{
 		"name": "spamhaus_edrop",
@@ -1196,7 +1202,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 372,
+		"ips": 370,
 		"common": 9
 	},
 	{
@@ -1221,7 +1227,7 @@
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 291042,
-		"common": 4564
+		"common": 4565
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -1239,7 +1245,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 541287,
-		"common": 5696
+		"common": 5697
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -1257,7 +1263,7 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
-		"common": 915
+		"common": 916
 	},
 	{
 		"name": "talosintel_ipfilter",
@@ -1323,7 +1329,7 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 27175,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "xroxy",
