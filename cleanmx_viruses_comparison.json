@@ -44,7 +44,7 @@
 	{
 		"name": "bambenek_pykspa",
 		"category": "malware",
-		"ips": 5,
+		"ips": 6,
 		"common": 1
 	},
 	{
@@ -57,7 +57,7 @@
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 102,
-		"common": 22
+		"common": 21
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -164,7 +164,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11391,
+		"ips": 11392,
 		"common": 100
 	},
 	{
@@ -482,13 +482,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587778,
+		"ips": 9587779,
 		"common": 12190
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27232,
+		"ips": 27231,
 		"common": 46
 	},
 	{
@@ -822,6 +822,12 @@
 		"common": 6
 	},
 	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 4036,
+		"common": 1
+	},
+	{
 		"name": "packetmail_carisirt",
 		"category": "reputation",
 		"ips": 550,
@@ -836,7 +842,7 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 171,
+		"ips": 176,
 		"common": 1
 	},
 	{
@@ -854,8 +860,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4903,
-		"common": 222
+		"ips": 4901,
+		"common": 224
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -866,7 +872,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 170,
+		"ips": 169,
 		"common": 5
 	},
 	{
