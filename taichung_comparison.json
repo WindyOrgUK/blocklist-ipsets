@@ -54,6 +54,12 @@
 		"common": 1
 	},
 	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 330,
+		"common": 1
+	},
+	{
 		"name": "bambenek_tinba",
 		"category": "malware",
 		"ips": 3,
@@ -80,7 +86,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 317,
+		"ips": 319,
 		"common": 5
 	},
 	{
@@ -122,19 +128,19 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7370,
+		"ips": 7361,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22375,
+		"ips": 22372,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11570,
+		"ips": 11577,
 		"common": 1
 	},
 	{
@@ -272,8 +278,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 15549,
-		"common": 1222
+		"ips": 15007,
+		"common": 1191
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -524,8 +530,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132803,
-		"common": 1701
+		"ips": 132271,
+		"common": 1670
 	},
 	{
 		"name": "firehol_level4",
@@ -944,7 +950,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4901,
+		"ips": 4902,
 		"common": 4
 	},
 	{
@@ -1118,7 +1124,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21279,
+		"ips": 21278,
 		"common": 42
 	},
 	{
@@ -1152,16 +1158,22 @@
 		"common": 1572
 	},
 	{
+		"name": "urandomusto_dns",
+		"category": "attacks",
+		"ips": 8,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 141,
+		"ips": 145,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 289,
-		"common": 2
+		"ips": 343,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ntp",

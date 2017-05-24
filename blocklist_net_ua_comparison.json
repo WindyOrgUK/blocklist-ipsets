@@ -20,7 +20,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 328,
+		"ips": 330,
 		"common": 2
 	},
 	{
@@ -44,7 +44,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 317,
+		"ips": 319,
 		"common": 47
 	},
 	{
@@ -87,7 +87,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 33369,
-		"common": 727
+		"common": 724
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -129,7 +129,7 @@
 		"name": "blocklist_de_sip",
 		"category": "attacks",
 		"ips": 8157,
-		"common": 266
+		"common": 263
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -224,8 +224,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 15549,
-		"common": 4
+		"ips": 15007,
+		"common": 3
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -525,13 +525,13 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 42745,
-		"common": 785
+		"common": 782
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132803,
-		"common": 236
+		"ips": 132271,
+		"common": 235
 	},
 	{
 		"name": "firehol_level4",
@@ -555,13 +555,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738358,
-		"common": 2339
+		"common": 2340
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095808,
-		"common": 195
+		"common": 196
 	},
 	{
 		"name": "gpf_comics",
@@ -1131,12 +1131,12 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1702
+		"common": 1703
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4901,
+		"ips": 4902,
 		"common": 60
 	},
 	{
@@ -1358,7 +1358,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21279,
+		"ips": 21278,
 		"common": 38
 	},
 	{
@@ -1401,19 +1401,25 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 39574,
-		"common": 117
+		"common": 116
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 141,
+		"ips": 145,
 		"common": 23
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 289,
-		"common": 2
+		"ips": 343,
+		"common": 8
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 198,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",

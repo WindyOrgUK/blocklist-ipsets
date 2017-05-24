@@ -50,7 +50,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 317,
+		"ips": 319,
 		"common": 23
 	},
 	{
@@ -92,19 +92,19 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7370,
+		"ips": 7361,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22375,
+		"ips": 22372,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11570,
+		"ips": 11577,
 		"common": 2
 	},
 	{
@@ -212,8 +212,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 15549,
-		"common": 700
+		"ips": 15007,
+		"common": 701
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -500,8 +500,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132803,
-		"common": 854
+		"ips": 132271,
+		"common": 857
 	},
 	{
 		"name": "firehol_level4",
@@ -1004,7 +1004,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21279,
+		"ips": 21278,
 		"common": 51
 	},
 	{
@@ -1052,20 +1052,26 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 5,
+		"ips": 8,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 141,
-		"common": 1
+		"ips": 145,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 289,
-		"common": 4
+		"ips": 343,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 198,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
