@@ -140,7 +140,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587978,
+		"ips": 9587973,
 		"common": 1
 	},
 	{
@@ -183,7 +183,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -195,7 +195,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "packetmail",
@@ -243,13 +243,19 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 39574,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
 		"ips": 14,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_smb",
+		"category": "attacks",
+		"ips": 12,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
