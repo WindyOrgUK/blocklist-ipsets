@@ -224,8 +224,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11529,
-		"common": 75
+		"ips": 11552,
+		"common": 76
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -560,13 +560,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 215997,
-		"common": 83
+		"ips": 215711,
+		"common": 80
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38294,
+		"ips": 38297,
 		"common": 20
 	},
 	{
@@ -590,13 +590,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587831,
+		"ips": 9587855,
 		"common": 624
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24991,
+		"ips": 24994,
 		"common": 5
 	},
 	{
@@ -836,7 +836,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4107,
+		"ips": 4126,
 		"common": 280
 	},
 	{
@@ -846,10 +846,16 @@
 		"common": 18
 	},
 	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 130,
+		"common": 1
+	},
+	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2610,
-		"common": 162
+		"ips": 2623,
+		"common": 157
 	},
 	{
 		"name": "php_commenters",
@@ -956,7 +962,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4905,
+		"ips": 4904,
 		"common": 4
 	},
 	{
@@ -1022,13 +1028,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11124,
+		"ips": 11125,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4292,
+		"ips": 4294,
 		"common": 2
 	},
 	{
@@ -1070,8 +1076,8 @@
 	{
 		"name": "stopforumspam",
 		"category": "abuse",
-		"ips": 160460,
-		"common": 61
+		"ips": 160526,
+		"common": 55
 	},
 	{
 		"name": "stopforumspam_180d",

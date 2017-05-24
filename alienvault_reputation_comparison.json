@@ -56,7 +56,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 103,
+		"ips": 97,
 		"common": 18
 	},
 	{
@@ -74,13 +74,13 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 98,
+		"ips": 100,
 		"common": 12
 	},
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 48,
+		"ips": 49,
 		"common": 6
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11529,
+		"ips": 11552,
 		"common": 6
 	},
 	{
@@ -608,13 +608,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 215997,
+		"ips": 215711,
 		"common": 63
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38294,
+		"ips": 38297,
 		"common": 8
 	},
 	{
@@ -638,13 +638,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587831,
+		"ips": 9587855,
 		"common": 198
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24991,
+		"ips": 24994,
 		"common": 7
 	},
 	{
@@ -980,8 +980,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4107,
-		"common": 1072
+		"ips": 4126,
+		"common": 1059
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -990,10 +990,16 @@
 		"common": 10
 	},
 	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 130,
+		"common": 1
+	},
+	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2610,
-		"common": 707
+		"ips": 2623,
+		"common": 690
 	},
 	{
 		"name": "php_commenters_30d",
@@ -1100,7 +1106,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4905,
+		"ips": 4904,
 		"common": 43
 	},
 	{
@@ -1190,7 +1196,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11124,
+		"ips": 11125,
 		"common": 2
 	},
 	{
@@ -1262,8 +1268,8 @@
 	{
 		"name": "stopforumspam",
 		"category": "abuse",
-		"ips": 160460,
-		"common": 31
+		"ips": 160526,
+		"common": 33
 	},
 	{
 		"name": "stopforumspam_180d",

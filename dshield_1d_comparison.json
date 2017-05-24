@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11529,
+		"ips": 11552,
 		"common": 8
 	},
 	{
@@ -386,13 +386,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 215997,
-		"common": 5
+		"ips": 215711,
+		"common": 4
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38294,
+		"ips": 38297,
 		"common": 3
 	},
 	{
@@ -416,13 +416,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587831,
+		"ips": 9587855,
 		"common": 88
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24991,
+		"ips": 24994,
 		"common": 2
 	},
 	{
@@ -596,8 +596,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4107,
-		"common": 199
+		"ips": 4126,
+		"common": 198
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -606,10 +606,16 @@
 		"common": 11
 	},
 	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 130,
+		"common": 1
+	},
+	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2610,
-		"common": 132
+		"ips": 2623,
+		"common": 127
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -668,13 +674,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11124,
+		"ips": 11125,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4292,
+		"ips": 4294,
 		"common": 1
 	},
 	{
@@ -698,8 +704,8 @@
 	{
 		"name": "stopforumspam",
 		"category": "abuse",
-		"ips": 160460,
-		"common": 3
+		"ips": 160526,
+		"common": 2
 	},
 	{
 		"name": "stopforumspam_180d",
