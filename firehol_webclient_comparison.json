@@ -68,8 +68,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 333,
-		"common": 4
+		"ips": 288,
+		"common": 3
 	},
 	{
 		"name": "bambenek_simda",
@@ -416,13 +416,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 23931,
+		"ips": 23914,
 		"common": 98
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 21033,
+		"ips": 21027,
 		"common": 97
 	},
 	{
@@ -716,14 +716,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38302,
+		"ips": 38295,
 		"common": 482
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654725789,
-		"common": 730
+		"ips": 654725746,
+		"common": 729
 	},
 	{
 		"name": "firehol_level2",
@@ -746,7 +746,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25071,
+		"ips": 25064,
 		"common": 461
 	},
 	{
@@ -1394,13 +1394,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11195,
+		"ips": 11186,
 		"common": 4
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4373,
+		"ips": 4369,
 		"common": 1
 	},
 	{
@@ -1472,7 +1472,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 352,
+		"ips": 351,
 		"common": 1
 	},
 	{
@@ -1484,7 +1484,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 904,
+		"ips": 905,
 		"common": 1
 	},
 	{
@@ -1600,12 +1600,6 @@
 		"category": "attacks",
 		"ips": 208,
 		"common": 4
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 441,
-		"common": 1
 	},
 	{
 		"name": "urlvir",
