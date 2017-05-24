@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32850,
-		"common": 249
+		"ips": 32955,
+		"common": 253
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -72,52 +72,58 @@
 		"common": 1
 	},
 	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 12190,
+		"common": 1
+	},
+	{
 		"name": "cleantalk",
 		"category": "abuse",
 		"ips": 2674,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 6260,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 50610,
-		"common": 55
+		"common": 56
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 16062,
-		"common": 28
+		"common": 29
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
 		"ips": 674,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
 		"ips": 1486,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 19810,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 5491,
-		"common": 19
+		"common": 20
 	},
 	{
 		"name": "cleantalk_updated",
@@ -159,7 +165,7 @@
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 23640,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -213,19 +219,19 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 11838,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 215865,
-		"common": 59
+		"common": 60
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42217,
-		"common": 249
+		"ips": 42321,
+		"common": 253
 	},
 	{
 		"name": "firehol_level3",
@@ -237,13 +243,13 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9587978,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 27230,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
@@ -398,7 +404,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 27974,
+		"ips": 27968,
 		"common": 1
 	},
 	{
@@ -513,7 +519,7 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 194,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "voipbl",
