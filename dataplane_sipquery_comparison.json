@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11468,
+		"ips": 11466,
 		"common": 2
 	},
 	{
@@ -182,14 +182,14 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 155,
-		"common": 41
+		"ips": 157,
+		"common": 42
 	},
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
-		"ips": 57,
-		"common": 41
+		"ips": 60,
+		"common": 42
 	},
 	{
 		"name": "dataplane_sipinvitation",
@@ -207,7 +207,7 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 23605,
-		"common": 45
+		"common": 46
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -218,8 +218,8 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 627,
-		"common": 19
+		"ips": 630,
+		"common": 20
 	},
 	{
 		"name": "dragon_http",
@@ -255,7 +255,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29696,
-		"common": 52
+		"common": 55
 	},
 	{
 		"name": "dshield_7d",
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38222,
+		"ips": 38219,
 		"common": 1
 	},
 	{
@@ -314,19 +314,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42308,
-		"common": 78
+		"ips": 42336,
+		"common": 79
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 133008,
-		"common": 213
+		"common": 216
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587791,
+		"ips": 9587798,
 		"common": 10
 	},
 	{
@@ -345,19 +345,19 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738731,
-		"common": 100
+		"common": 102
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095811,
-		"common": 42
+		"common": 43
 	},
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1311,
-		"common": 42
+		"ips": 1343,
+		"common": 43
 	},
 	{
 		"name": "haley_ssh",
@@ -513,7 +513,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 94
+		"common": 96
 	},
 	{
 		"name": "snort_ipfilter",
@@ -645,6 +645,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 27199,
-		"common": 255
+		"common": 256
 	}
 ]
