@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11344,
+		"ips": 11343,
 		"common": 2
 	},
 	{
@@ -92,13 +92,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15657,
+		"ips": 15645,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4757,
+		"ips": 4753,
 		"common": 1
 	},
 	{
@@ -153,7 +153,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 654695530,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "firehol_level3",
@@ -164,13 +164,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587596,
+		"ips": 9587586,
 		"common": 22
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27274,
+		"ips": 27272,
 		"common": 2
 	},
 	{
@@ -376,6 +376,18 @@
 		"category": "malware",
 		"ips": 4905,
 		"common": 19
+	},
+	{
+		"name": "ransomware_rw",
+		"category": "malware",
+		"ips": 11800,
+		"common": 1
+	},
+	{
+		"name": "ransomware_torrentlocker_c2",
+		"category": "malware",
+		"ips": 63,
+		"common": 1
 	},
 	{
 		"name": "snort_ipfilter",

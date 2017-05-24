@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32584,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "atlas_phishing",
@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11344,
+		"ips": 11343,
 		"common": 1
 	},
 	{
@@ -75,7 +75,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
-		"common": 38
+		"common": 39
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -128,7 +128,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 310802,
+		"ips": 310801,
 		"common": 4
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38355,
+		"ips": 38322,
 		"common": 1
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41460,
+		"ips": 41594,
 		"common": 1
 	},
 	{
@@ -350,19 +350,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587596,
+		"ips": 9587586,
 		"common": 11
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25013,
+		"ips": 25009,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27274,
+		"ips": 27272,
 		"common": 128
 	},
 	{
@@ -414,6 +414,12 @@
 		"common": 1
 	},
 	{
+		"name": "hphosts_hfs",
+		"category": "abuse",
+		"ips": 263,
+		"common": 1
+	},
+	{
 		"name": "hphosts_hjk",
 		"category": "malware",
 		"ips": 57,
@@ -423,19 +429,25 @@
 		"name": "hphosts_mmt",
 		"category": "reputation",
 		"ips": 1159,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "hphosts_pha",
 		"category": "reputation",
 		"ips": 1699,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 27626,
 		"common": 13
+	},
+	{
+		"name": "hphosts_wrz",
+		"category": "reputation",
+		"ips": 816,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_ads",
@@ -495,7 +507,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 255
+		"common": 254
 	},
 	{
 		"name": "iblocklist_level3",
@@ -656,7 +668,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3188,
+		"ips": 3189,
 		"common": 1
 	},
 	{
