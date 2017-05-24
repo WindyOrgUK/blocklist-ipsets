@@ -50,20 +50,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33028,
-		"common": 250
+		"ips": 33338,
+		"common": 255
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 139,
+		"ips": 140,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11552,
-		"common": 25
+		"ips": 11559,
+		"common": 26
 	},
 	{
 		"name": "ciarmy",
@@ -99,13 +99,13 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 50635,
-		"common": 55
+		"common": 56
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 15894,
-		"common": 31
+		"common": 32
 	},
 	{
 		"name": "cleantalk_new",
@@ -123,13 +123,13 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 19845,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 5531,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "cleantalk_updated",
@@ -156,6 +156,12 @@
 		"common": 9
 	},
 	{
+		"name": "cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 6922,
+		"common": 1
+	},
+	{
 		"name": "cta_cryptowall",
 		"category": "malware",
 		"ips": 1360,
@@ -177,13 +183,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 23608,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 20742,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dronebl_anonymizers",
@@ -231,7 +237,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 215719,
-		"common": 57
+		"common": 59
 	},
 	{
 		"name": "firehol_level1",
@@ -242,8 +248,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40100,
-		"common": 250
+		"ips": 40406,
+		"common": 255
 	},
 	{
 		"name": "firehol_level3",
@@ -254,8 +260,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587857,
-		"common": 27
+		"ips": 9587863,
+		"common": 29
 	},
 	{
 		"name": "firehol_webclient",
@@ -285,7 +291,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1347,
-		"common": 62
+		"common": 63
 	},
 	{
 		"name": "hphosts_emd",
@@ -318,6 +324,12 @@
 		"common": 8
 	},
 	{
+		"name": "iblocklist_cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 6914,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
@@ -333,7 +345,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762509239,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "iblocklist_level2",
@@ -345,7 +357,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -393,7 +405,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 33857,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "nullsecure",
@@ -405,7 +417,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 4126,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -422,14 +434,14 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4904,
+		"ips": 4905,
 		"common": 2
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -465,13 +477,13 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 160526,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 291097,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -483,7 +495,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 541410,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -495,7 +507,7 @@
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 161846,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "stopforumspam_toxic",
@@ -525,7 +537,7 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 216,
-		"common": 30
+		"common": 33
 	},
 	{
 		"name": "voipbl",
