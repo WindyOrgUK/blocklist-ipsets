@@ -74,13 +74,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32613,
-		"common": 2
+		"ips": 32915,
+		"common": 3
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 14787,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 8198,
+		"ips": 8354,
 		"common": 2
 	},
 	{
@@ -92,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11634,
+		"ips": 11630,
 		"common": 1
 	},
 	{
@@ -290,8 +296,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39689,
-		"common": 17
+		"ips": 39990,
+		"common": 18
 	},
 	{
 		"name": "firehol_level3",
@@ -302,7 +308,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587921,
+		"ips": 9587918,
 		"common": 11
 	},
 	{
@@ -600,9 +606,15 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_rdp",
+		"category": "attacks",
+		"ips": 127,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 22,
+		"ips": 26,
 		"common": 1
 	},
 	{
