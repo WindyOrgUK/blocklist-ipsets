@@ -62,19 +62,19 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 7183,
+		"ips": 7180,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22446,
+		"ips": 22457,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11680,
+		"ips": 11692,
 		"common": 1
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654725777,
+		"ips": 654725778,
 		"common": 4
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132396,
+		"ips": 132475,
 		"common": 1310
 	},
 	{
@@ -992,8 +992,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 433,
-		"common": 29
+		"ips": 445,
+		"common": 21
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 446,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_vnc",
