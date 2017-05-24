@@ -56,7 +56,7 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 1599,
+		"ips": 1595,
 		"common": 21
 	},
 	{
@@ -80,13 +80,13 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5693,
-		"common": 85
+		"ips": 5689,
+		"common": 86
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7367,
+		"ips": 7377,
 		"common": 127
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11593,
+		"ips": 11597,
 		"common": 229
 	},
 	{
@@ -536,7 +536,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38179,
+		"ips": 38175,
 		"common": 264
 	},
 	{
@@ -566,7 +566,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25048,
+		"ips": 25044,
 		"common": 224
 	},
 	{
@@ -788,8 +788,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28218,
-		"common": 869
+		"ips": 28149,
+		"common": 887
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -957,24 +957,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 4
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1895,
+		"ips": 1894,
 		"common": 75
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11180,
+		"ips": 11176,
 		"common": 179
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4362,
+		"ips": 4359,
 		"common": 139
 	},
 	{
@@ -1142,8 +1142,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 173,
+		"ips": 190,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 366,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 205,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_ssh",

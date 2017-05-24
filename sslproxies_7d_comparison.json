@@ -14,7 +14,7 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 171,
+		"ips": 170,
 		"common": 10
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38179,
+		"ips": 38175,
 		"common": 885
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25048,
+		"ips": 25044,
 		"common": 885
 	},
 	{
@@ -362,8 +362,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28218,
-		"common": 30
+		"ips": 28149,
+		"common": 32
 	},
 	{
 		"name": "nullsecure",
@@ -620,19 +620,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1895,
+		"ips": 1894,
 		"common": 17
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11180,
+		"ips": 11176,
 		"common": 29
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4362,
+		"ips": 4359,
 		"common": 25
 	},
 	{
@@ -788,8 +788,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 173,
+		"ips": 190,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 366,
+		"common": 4
 	},
 	{
 		"name": "xroxy",
