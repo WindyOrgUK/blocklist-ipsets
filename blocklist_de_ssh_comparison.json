@@ -26,8 +26,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 338,
-		"common": 98
+		"ips": 341,
+		"common": 100
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -86,8 +86,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33775,
-		"common": 8921
+		"ips": 33886,
+		"common": 8977
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -99,7 +99,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 11336,
-		"common": 283
+		"common": 284
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -237,13 +237,13 @@
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 152,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "dataplane_dnsrdany",
 		"category": "attacks",
 		"ips": 28,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -261,13 +261,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 23603,
-		"common": 3601
+		"common": 3606
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 20744,
-		"common": 3293
+		"common": 3298
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -428,20 +428,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38322,
+		"ips": 38321,
 		"common": 9
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654695530,
+		"ips": 654695531,
 		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41594,
-		"common": 8921
+		"ips": 41704,
+		"common": 8977
 	},
 	{
 		"name": "firehol_level3",
@@ -453,12 +453,12 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9587581,
-		"common": 798
+		"common": 800
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25009,
+		"ips": 25011,
 		"common": 1
 	},
 	{
@@ -471,7 +471,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738731,
-		"common": 137
+		"common": 135
 	},
 	{
 		"name": "gofferje_sip",
@@ -489,7 +489,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 20187,
-		"common": 574
+		"common": 575
 	},
 	{
 		"name": "hphosts_psh",
@@ -513,7 +513,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 336
+		"common": 339
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -597,7 +597,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762509239,
-		"common": 154
+		"common": 155
 	},
 	{
 		"name": "iblocklist_level2",
@@ -609,7 +609,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 242
+		"common": 243
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -669,7 +669,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1405110,
-		"common": 138
+		"common": 139
 	},
 	{
 		"name": "myip",
@@ -681,7 +681,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 30638,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -735,7 +735,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 122
+		"common": 120
 	},
 	{
 		"name": "sblam",
@@ -764,20 +764,20 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4249,
+		"ips": 4250,
 		"common": 1
 	},
 	{
 		"name": "sorbs_anonymizers",
 		"category": "spam",
 		"ips": 609175,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 1032
+		"common": 1038
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -789,7 +789,7 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 76
+		"common": 77
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -890,13 +890,13 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2116,
+		"ips": 2117,
 		"common": 8
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1281,
+		"ips": 1283,
 		"common": 8
 	},
 	{
@@ -909,7 +909,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 39574,
-		"common": 1104
+		"common": 1106
 	},
 	{
 		"name": "urandomusto_ftp",
