@@ -164,7 +164,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11248,
+		"ips": 11344,
 		"common": 120
 	},
 	{
@@ -506,7 +506,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38228,
+		"ips": 38225,
 		"common": 9
 	},
 	{
@@ -530,13 +530,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587609,
+		"ips": 9587641,
 		"common": 192
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24980,
+		"ips": 24977,
 		"common": 7
 	},
 	{
@@ -572,7 +572,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 20181,
+		"ips": 20185,
 		"common": 42
 	},
 	{
@@ -770,8 +770,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4067,
-		"common": 149
+		"ips": 4107,
+		"common": 146
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -788,14 +788,14 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 178,
+		"ips": 149,
 		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2623,
-		"common": 105
+		"ips": 2610,
+		"common": 108
 	},
 	{
 		"name": "php_commenters",
@@ -906,6 +906,12 @@
 		"common": 8
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
 		"ips": 1740,
@@ -920,7 +926,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4300,
+		"ips": 4289,
 		"common": 3
 	},
 	{
