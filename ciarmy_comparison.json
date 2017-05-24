@@ -56,7 +56,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 308,
+		"ips": 304,
 		"common": 4
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11502,
+		"ips": 11251,
 		"common": 3
 	},
 	{
@@ -290,14 +290,14 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 400,
+		"ips": 402,
 		"common": 172
 	},
 	{
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
-		"ips": 38,
-		"common": 3
+		"ips": 39,
+		"common": 4
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587910,
+		"ips": 9587671,
 		"common": 72
 	},
 	{
@@ -746,7 +746,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35075,
+		"ips": 35352,
 		"common": 8
 	},
 	{
@@ -998,8 +998,8 @@
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
-		"ips": 291042,
-		"common": 26
+		"ips": 291097,
+		"common": 28
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -1016,8 +1016,8 @@
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
-		"ips": 541287,
-		"common": 39
+		"ips": 541410,
+		"common": 41
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -1076,20 +1076,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 197,
+		"ips": 202,
 		"common": 8
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
 		"ips": 178,
-		"common": 3
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 202,
-		"common": 1
+		"common": 5
 	},
 	{
 		"name": "urandomusto_ntp",
