@@ -26,8 +26,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 100,
-		"common": 1
+		"ips": 103,
+		"common": 2
 	},
 	{
 		"name": "bambenek_c2",
@@ -56,7 +56,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 313,
+		"ips": 319,
 		"common": 65
 	},
 	{
@@ -146,55 +146,55 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32501,
-		"common": 1190
+		"ips": 32422,
+		"common": 1188
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8776,
+		"ips": 8772,
 		"common": 277
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 183,
-		"common": 154
+		"ips": 184,
+		"common": 155
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 331,
+		"ips": 326,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 234,
-		"common": 14
+		"ips": 236,
+		"common": 15
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1193,
+		"ips": 1188,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14533,
-		"common": 682
+		"ips": 14491,
+		"common": 680
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 8947,
-		"common": 261
+		"ips": 8921,
+		"common": 259
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 8110,
+		"ips": 8098,
 		"common": 59
 	},
 	{
@@ -788,8 +788,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39819,
-		"common": 1237
+		"ips": 39740,
+		"common": 1235
 	},
 	{
 		"name": "firehol_level3",
@@ -1238,8 +1238,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35901,
-		"common": 509
+		"ips": 35664,
+		"common": 492
 	},
 	{
 		"name": "nt_malware_http",
@@ -1814,20 +1814,8 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 218,
+		"ips": 222,
 		"common": 21
-	},
-	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 176,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 183,
-		"common": 2
 	},
 	{
 		"name": "urandomusto_malware",

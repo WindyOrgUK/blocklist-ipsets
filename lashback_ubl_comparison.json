@@ -26,8 +26,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 313,
-		"common": 37
+		"ips": 319,
+		"common": 40
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -98,56 +98,56 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32501,
-		"common": 5361
+		"ips": 32422,
+		"common": 5310
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8776,
+		"ips": 8772,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 183,
+		"ips": 184,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 331,
+		"ips": 326,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 234,
+		"ips": 236,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1193,
-		"common": 54
+		"ips": 1188,
+		"common": 56
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14533,
-		"common": 3276
+		"ips": 14491,
+		"common": 3226
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 8947,
-		"common": 1944
+		"ips": 8921,
+		"common": 1941
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 8110,
-		"common": 129
+		"ips": 8098,
+		"common": 131
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -674,8 +674,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39819,
-		"common": 5412
+		"ips": 39740,
+		"common": 5361
 	},
 	{
 		"name": "firehol_level3",
@@ -1100,8 +1100,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35901,
-		"common": 18903
+		"ips": 35664,
+		"common": 18727
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1658,14 +1658,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 218,
-		"common": 55
+		"ips": 222,
+		"common": 57
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 169,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 183,
-		"common": 7
+		"ips": 173,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_ssh",
