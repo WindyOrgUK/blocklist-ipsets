@@ -62,50 +62,50 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32485,
-		"common": 318
+		"ips": 32307,
+		"common": 317
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8730,
+		"ips": 8726,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 170,
-		"common": 25
+		"ips": 172,
+		"common": 26
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 296,
+		"ips": 295,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1389,
-		"common": 8
+		"ips": 1383,
+		"common": 7
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14842,
-		"common": 41
+		"ips": 14765,
+		"common": 40
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 9589,
-		"common": 65
+		"ips": 9549,
+		"common": 63
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 7181,
-		"common": 176
+		"ips": 7125,
+		"common": 177
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38237,
+		"ips": 38238,
 		"common": 55
 	},
 	{
@@ -524,8 +524,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41852,
-		"common": 330
+		"ips": 41673,
+		"common": 329
 	},
 	{
 		"name": "firehol_level3",
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25015,
+		"ips": 25016,
 		"common": 49
 	},
 	{
@@ -1110,21 +1110,27 @@
 		"common": 14
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1833,
+		"ips": 1836,
 		"common": 18
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11153,
+		"ips": 11155,
 		"common": 28
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4340,
+		"ips": 4342,
 		"common": 19
 	},
 	{
@@ -1166,7 +1172,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 307,
+		"ips": 308,
 		"common": 1
 	},
 	{
