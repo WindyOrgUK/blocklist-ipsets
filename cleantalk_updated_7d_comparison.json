@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 315,
+		"ips": 312,
 		"common": 30
 	},
 	{
@@ -50,8 +50,8 @@
 	{
 		"name": "bi_http_2_30d",
 		"category": "attacks",
-		"ips": 145,
-		"common": 24
+		"ips": 142,
+		"common": 23
 	},
 	{
 		"name": "bi_mail_2_30d",
@@ -68,7 +68,7 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 7186,
+		"ips": 7185,
 		"common": 1
 	},
 	{
@@ -78,21 +78,27 @@
 		"common": 1
 	},
 	{
+		"name": "bitcoin_nodes",
+		"category": "organizations",
+		"ips": 5757,
+		"common": 1
+	},
+	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7418,
+		"ips": 7420,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22427,
+		"ips": 22430,
 		"common": 5
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11663,
+		"ips": 11670,
 		"common": 3
 	},
 	{
@@ -1322,8 +1328,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 193,
+		"ips": 197,
 		"common": 5
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 178,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 202,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
