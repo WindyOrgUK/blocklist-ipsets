@@ -44,8 +44,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 337,
-		"common": 24
+		"ips": 328,
+		"common": 22
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -182,7 +182,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11368,
+		"ips": 11372,
 		"common": 59
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 326931,
+		"ips": 326930,
 		"common": 329
 	},
 	{
@@ -1420,6 +1420,12 @@
 		"category": "reputation",
 		"ips": 39574,
 		"common": 79
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 228,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",

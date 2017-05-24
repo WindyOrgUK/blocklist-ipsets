@@ -32,8 +32,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 337,
-		"common": 36
+		"ips": 328,
+		"common": 35
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11368,
+		"ips": 11372,
 		"common": 23
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 326931,
+		"ips": 326930,
 		"common": 183
 	},
 	{
@@ -1178,8 +1178,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 154,
+		"ips": 173,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 204,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_malware",
