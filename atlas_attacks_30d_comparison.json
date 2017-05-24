@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 9339,
+		"ips": 9316,
 		"common": 1
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 651,
+		"ips": 655,
 		"common": 4
 	},
 	{
@@ -174,10 +174,22 @@
 		"common": 1
 	},
 	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 24711129,
+		"common": 3
+	},
+	{
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1368,
 		"common": 1
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 3
 	},
 	{
 		"name": "firehol_level1",
