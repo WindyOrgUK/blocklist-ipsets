@@ -170,7 +170,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 313,
+		"ips": 315,
 		"common": 20
 	},
 	{
@@ -326,8 +326,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11324,
-		"common": 923
+		"ips": 11371,
+		"common": 928
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -932,8 +932,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587703,
-		"common": 161759
+		"ips": 9587750,
+		"common": 161764
 	},
 	{
 		"name": "firehol_proxies",
@@ -1382,8 +1382,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30674,
-		"common": 1476
+		"ips": 30454,
+		"common": 1435
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1976,7 +1976,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 129,
+		"ips": 141,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 289,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 186,
 		"common": 2
 	},
 	{

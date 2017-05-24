@@ -26,8 +26,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 313,
-		"common": 63
+		"ips": 315,
+		"common": 65
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11324,
+		"ips": 11371,
 		"common": 99
 	},
 	{
@@ -536,7 +536,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587703,
+		"ips": 9587750,
 		"common": 821
 	},
 	{
@@ -818,8 +818,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30674,
-		"common": 28
+		"ips": 30454,
+		"common": 29
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1310,7 +1310,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 129,
+		"ips": 141,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 289,
 		"common": 1
 	},
 	{

@@ -164,7 +164,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 313,
+		"ips": 315,
 		"common": 31
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11324,
+		"ips": 11371,
 		"common": 409
 	},
 	{
@@ -908,7 +908,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587703,
+		"ips": 9587750,
 		"common": 2537780
 	},
 	{
@@ -1388,8 +1388,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30674,
-		"common": 601
+		"ips": 30454,
+		"common": 596
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1988,14 +1988,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 129,
+		"ips": 141,
 		"common": 6
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 206,
-		"common": 4
+		"ips": 289,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 186,
+		"common": 7
 	},
 	{
 		"name": "urandomusto_ntp",
