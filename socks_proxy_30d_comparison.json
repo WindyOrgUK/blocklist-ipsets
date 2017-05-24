@@ -33,7 +33,7 @@
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 1026,
-		"common": 28
+		"common": 31
 	},
 	{
 		"name": "bi_mail_2_30d",
@@ -50,32 +50,32 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33272,
-		"common": 715
+		"ips": 33160,
+		"common": 706
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 177,
-		"common": 2
+		"ips": 174,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1611,
+		"ips": 1595,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15821,
-		"common": 394
+		"ips": 15716,
+		"common": 380
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 7998,
-		"common": 319
+		"ips": 8098,
+		"common": 323
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11390,
+		"ips": 11376,
 		"common": 16
 	},
 	{
@@ -267,7 +267,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 326931,
-		"common": 2233
+		"common": 2231
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -297,13 +297,13 @@
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
 		"ips": 41956,
-		"common": 284
+		"common": 283
 	},
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
 		"ips": 124168,
-		"common": 1301
+		"common": 1299
 	},
 	{
 		"name": "dshield",
@@ -362,8 +362,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11289,
-		"common": 153
+		"ips": 11356,
+		"common": 155
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -374,8 +374,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38223,
-		"common": 11022
+		"ips": 38215,
+		"common": 11017
 	},
 	{
 		"name": "firehol_level1",
@@ -386,26 +386,26 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42646,
-		"common": 717
+		"ips": 42535,
+		"common": 708
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132270,
+		"ips": 132271,
 		"common": 79
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587776,
+		"ips": 9587766,
 		"common": 345
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25083,
-		"common": 11060
+		"ips": 25075,
+		"common": 11055
 	},
 	{
 		"name": "firehol_webclient",
@@ -656,8 +656,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28717,
-		"common": 514
+		"ips": 28535,
+		"common": 518
 	},
 	{
 		"name": "nullsecure",
@@ -771,7 +771,7 @@
 		"name": "proxylists_30d",
 		"category": "anonymizers",
 		"ips": 6483,
-		"common": 870
+		"common": 869
 	},
 	{
 		"name": "proxylists_7d",
@@ -926,8 +926,8 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1921,
-		"common": 1921
+		"ips": 1912,
+		"common": 1912
 	},
 	{
 		"name": "socks_proxy_7d",
@@ -951,7 +951,7 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 35223,
-		"common": 669
+		"common": 668
 	},
 	{
 		"name": "sorbs_noserver",
@@ -963,13 +963,13 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 1463
+		"common": 1462
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 452
+		"common": 453
 	},
 	{
 		"name": "spamhaus_drop",
@@ -992,13 +992,13 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 352,
+		"ips": 351,
 		"common": 6
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3171,
+		"ips": 3168,
 		"common": 121
 	},
 	{
@@ -1017,13 +1017,13 @@
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 291042,
-		"common": 1854
+		"common": 1852
 	},
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4407,
-		"common": 92
+		"ips": 4492,
+		"common": 94
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1035,7 +1035,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 541287,
-		"common": 2036
+		"common": 2033
 	},
 	{
 		"name": "stopforumspam_7d",
