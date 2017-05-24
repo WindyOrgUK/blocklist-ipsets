@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11306,
+		"ips": 11344,
 		"common": 54
 	},
 	{
@@ -258,6 +258,18 @@
 		"common": 75
 	},
 	{
+		"name": "dataplane_dnsrd",
+		"category": "attacks",
+		"ips": 151,
+		"common": 6
+	},
+	{
+		"name": "dataplane_dnsversion",
+		"category": "attacks",
+		"ips": 53,
+		"common": 6
+	},
+	{
 		"name": "dataplane_sipinvitation",
 		"category": "attacks",
 		"ips": 17,
@@ -326,7 +338,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 41957,
+		"ips": 41958,
 		"common": 16
 	},
 	{
@@ -434,7 +446,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587558,
+		"ips": 9587596,
 		"common": 151
 	},
 	{
@@ -638,8 +650,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32013,
-		"common": 23
+		"ips": 31448,
+		"common": 24
 	},
 	{
 		"name": "nt_ssh_7d",
