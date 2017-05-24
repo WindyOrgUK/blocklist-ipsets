@@ -38,13 +38,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34242,
+		"ips": 34350,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 9158,
+		"ips": 9220,
 		"common": 1
 	},
 	{
@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11410,
+		"ips": 11407,
 		"common": 1
 	},
 	{
@@ -201,6 +201,12 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24711129,
+		"common": 2
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 24705024,
 		"common": 1
 	},
 	{
@@ -237,12 +243,12 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 654695532,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42048,
+		"ips": 42155,
 		"common": 3
 	},
 	{
@@ -254,7 +260,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587664,
+		"ips": 9587662,
 		"common": 4
 	},
 	{
@@ -366,6 +372,12 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 24717824,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
 		"ips": 11888,
@@ -453,6 +465,12 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
+		"common": 1
+	},
+	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 24712704,
 		"common": 1
 	},
 	{
