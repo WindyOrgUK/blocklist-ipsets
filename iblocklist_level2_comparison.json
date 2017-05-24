@@ -158,8 +158,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 341,
-		"common": 23
+		"ips": 335,
+		"common": 22
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -302,7 +302,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11339,
+		"ips": 11328,
 		"common": 420
 	},
 	{
@@ -908,7 +908,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587586,
+		"ips": 9587578,
 		"common": 2537772
 	},
 	{
@@ -1652,8 +1652,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4906,
-		"common": 263
+		"ips": 4905,
+		"common": 262
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1766,8 +1766,8 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 21270,
-		"common": 91
+		"ips": 21208,
+		"common": 89
 	},
 	{
 		"name": "socks_proxy",
@@ -1994,20 +1994,26 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 206,
-		"common": 4
+		"ips": 203,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 287,
-		"common": 50
+		"ips": 277,
+		"common": 47
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 181,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 82,
-		"common": 29
+		"ips": 83,
+		"common": 30
 	},
 	{
 		"name": "urandomusto_rdp",
@@ -2018,7 +2024,7 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 14,
+		"ips": 17,
 		"common": 1
 	},
 	{

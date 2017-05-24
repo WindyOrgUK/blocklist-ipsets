@@ -194,7 +194,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11339,
+		"ips": 11328,
 		"common": 163
 	},
 	{
@@ -548,7 +548,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587586,
+		"ips": 9587578,
 		"common": 1060
 	},
 	{
@@ -932,7 +932,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4906,
+		"ips": 4905,
 		"common": 491
 	},
 	{
@@ -986,7 +986,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 21270,
+		"ips": 21208,
 		"common": 8
 	},
 	{
@@ -1126,6 +1126,18 @@
 		"category": "reputation",
 		"ips": 39574,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 277,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 181,
+		"common": 3
 	},
 	{
 		"name": "urlvir",
