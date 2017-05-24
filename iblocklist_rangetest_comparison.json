@@ -128,8 +128,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 341,
-		"common": 1
+		"ips": 340,
+		"common": 2
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -386,61 +386,61 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2477,
-		"common": 45
+		"ips": 2478,
+		"common": 43
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 5972,
+		"ips": 5947,
 		"common": 131
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 50630,
+		"ips": 50626,
 		"common": 369
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 15813,
+		"ips": 15809,
 		"common": 254
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19830,
+		"ips": 19832,
 		"common": 26
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5514,
+		"ips": 5516,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 45
+		"common": 43
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5228,
+		"ips": 5205,
 		"common": 165
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 41950,
+		"ips": 41942,
 		"common": 790
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 12798,
+		"ips": 12792,
 		"common": 469
 	},
 	{
@@ -668,13 +668,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13392,
+		"ips": 13366,
 		"common": 177
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 215750,
+		"ips": 215747,
 		"common": 1132
 	},
 	{
@@ -1058,8 +1058,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 25901,
-		"common": 57
+		"ips": 25427,
+		"common": 56
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1160,25 +1160,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1732,
-		"common": 1
+		"ips": 1747,
+		"common": 4
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2913,
-		"common": 7
+		"ips": 2879,
+		"common": 8
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 6432,
+		"ips": 6429,
 		"common": 22
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4280,
+		"ips": 4284,
 		"common": 17
 	},
 	{
@@ -1256,7 +1256,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4904,
+		"ips": 4905,
 		"common": 75
 	},
 	{
@@ -1502,7 +1502,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 241,
+		"ips": 263,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 239,
 		"common": 1
 	},
 	{
