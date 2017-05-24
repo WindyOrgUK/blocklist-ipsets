@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 304,
+		"ips": 310,
 		"common": 3
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 642,
+		"ips": 639,
 		"common": 1
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12445,
+		"ips": 12567,
 		"common": 81
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38232,
+		"ips": 38228,
 		"common": 10
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24984,
+		"ips": 24980,
 		"common": 10
 	},
 	{
@@ -668,7 +668,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5870,
+		"ips": 6007,
 		"common": 11
 	},
 	{
@@ -710,13 +710,13 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 952,
+		"ips": 953,
 		"common": 7
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1018,
+		"ips": 1013,
 		"common": 7
 	},
 	{
@@ -736,5 +736,11 @@
 		"category": "reputation",
 		"ips": 39574,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 189,
+		"common": 1
 	}
 ]

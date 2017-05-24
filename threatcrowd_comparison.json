@@ -128,8 +128,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 304,
-		"common": 10
+		"ips": 310,
+		"common": 11
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -458,7 +458,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 402,
+		"ips": 400,
 		"common": 8
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 642,
+		"ips": 639,
 		"common": 5
 	},
 	{
@@ -506,7 +506,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 310730,
+		"ips": 310742,
 		"common": 17
 	},
 	{
@@ -770,7 +770,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12445,
+		"ips": 12567,
 		"common": 11
 	},
 	{
@@ -782,7 +782,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38232,
+		"ips": 38228,
 		"common": 17
 	},
 	{
@@ -812,7 +812,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24984,
+		"ips": 24980,
 		"common": 6
 	},
 	{
@@ -1220,7 +1220,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36253,
+		"ips": 36311,
 		"common": 4
 	},
 	{
@@ -1412,7 +1412,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1746,
+		"ips": 1740,
 		"common": 1
 	},
 	{
@@ -1424,7 +1424,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4305,
+		"ips": 4300,
 		"common": 2
 	},
 	{
@@ -1484,7 +1484,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3154,
+		"ips": 3150,
 		"common": 1
 	},
 	{
@@ -1502,7 +1502,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5870,
+		"ips": 6007,
 		"common": 4
 	},
 	{
@@ -1550,13 +1550,13 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 952,
+		"ips": 953,
 		"common": 4
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1018,
+		"ips": 1013,
 		"common": 4
 	},
 	{
@@ -1588,6 +1588,12 @@
 		"category": "attacks",
 		"ips": 14,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 209,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",

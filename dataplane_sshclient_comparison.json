@@ -26,8 +26,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 304,
-		"common": 149
+		"ips": 310,
+		"common": 152
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -302,13 +302,13 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 402,
+		"ips": 400,
 		"common": 43
 	},
 	{
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
-		"ips": 39,
+		"ips": 41,
 		"common": 1
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 642,
+		"ips": 639,
 		"common": 21
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 310730,
+		"ips": 310742,
 		"common": 119
 	},
 	{
@@ -452,7 +452,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12445,
+		"ips": 12567,
 		"common": 196
 	},
 	{
@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38232,
+		"ips": 38228,
 		"common": 257
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24984,
+		"ips": 24980,
 		"common": 89
 	},
 	{
@@ -776,8 +776,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36253,
-		"common": 14
+		"ips": 36311,
+		"common": 12
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1034,7 +1034,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3154,
+		"ips": 3150,
 		"common": 1
 	},
 	{
@@ -1058,7 +1058,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5870,
+		"ips": 6007,
 		"common": 163
 	},
 	{
@@ -1112,13 +1112,13 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 952,
+		"ips": 953,
 		"common": 247
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1018,
+		"ips": 1013,
 		"common": 250
 	},
 	{
@@ -1154,8 +1154,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 202,
+		"ips": 207,
 		"common": 7
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 189,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",

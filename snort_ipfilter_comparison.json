@@ -44,7 +44,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 304,
+		"ips": 310,
 		"common": 25
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 402,
+		"ips": 400,
 		"common": 4
 	},
 	{
@@ -398,7 +398,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 310730,
+		"ips": 310742,
 		"common": 6
 	},
 	{
@@ -500,8 +500,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12445,
-		"common": 417
+		"ips": 12567,
+		"common": 418
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38232,
+		"ips": 38228,
 		"common": 981
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24984,
+		"ips": 24980,
 		"common": 198
 	},
 	{
@@ -890,8 +890,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36253,
-		"common": 50
+		"ips": 36311,
+		"common": 48
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1152,9 +1152,15 @@
 		"common": 390
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1746,
+		"ips": 1740,
 		"common": 1
 	},
 	{
@@ -1166,7 +1172,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4305,
+		"ips": 4300,
 		"common": 5
 	},
 	{
@@ -1220,7 +1226,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3154,
+		"ips": 3150,
 		"common": 1
 	},
 	{
@@ -1244,8 +1250,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5870,
-		"common": 316
+		"ips": 6007,
+		"common": 317
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1298,14 +1304,14 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 952,
+		"ips": 953,
 		"common": 887
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1018,
-		"common": 951
+		"ips": 1013,
+		"common": 945
 	},
 	{
 		"name": "tor_exits_30d",
@@ -1317,7 +1323,7 @@
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1281,
-		"common": 1021
+		"common": 1020
 	},
 	{
 		"name": "trustedsec_atif",
@@ -1334,7 +1340,7 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 202,
+		"ips": 207,
 		"common": 3
 	},
 	{
