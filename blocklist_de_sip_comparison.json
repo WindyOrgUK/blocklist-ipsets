@@ -62,7 +62,7 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 994,
+		"ips": 982,
 		"common": 50
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11993,
+		"ips": 12003,
 		"common": 139
 	},
 	{
@@ -170,8 +170,8 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1353,
-		"common": 59
+		"ips": 1349,
+		"common": 60
 	},
 	{
 		"name": "ciarmy",
@@ -500,13 +500,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132591,
-		"common": 161
+		"ips": 132587,
+		"common": 162
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588303,
+		"ips": 9588313,
 		"common": 307
 	},
 	{
@@ -1268,14 +1268,20 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 256,
+		"ips": 206,
 		"common": 15
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 440,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 134,
-		"common": 26
+		"ips": 131,
+		"common": 24
 	},
 	{
 		"name": "urlvir",

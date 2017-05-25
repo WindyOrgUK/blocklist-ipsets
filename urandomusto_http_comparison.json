@@ -38,7 +38,7 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 994,
+		"ips": 982,
 		"common": 10
 	},
 	{
@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11993,
+		"ips": 12003,
 		"common": 55
 	},
 	{
@@ -380,13 +380,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132591,
+		"ips": 132587,
 		"common": 93
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588303,
+		"ips": 9588313,
 		"common": 73
 	},
 	{
@@ -920,8 +920,14 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 156,
+		"ips": 158,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 440,
+		"common": 2
 	},
 	{
 		"name": "voipbl",
