@@ -32,8 +32,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 336,
-		"common": 52
+		"ips": 337,
+		"common": 51
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -164,7 +164,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12219,
+		"ips": 12176,
 		"common": 429
 	},
 	{
@@ -399,7 +399,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 326988,
-		"common": 6351
+		"common": 6352
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -434,7 +434,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 124232,
+		"ips": 124233,
 		"common": 2158
 	},
 	{
@@ -572,13 +572,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132381,
-		"common": 1514
+		"ips": 132382,
+		"common": 1515
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588529,
+		"ips": 9588488,
 		"common": 2289
 	},
 	{
@@ -926,8 +926,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22952,
-		"common": 449
+		"ips": 23061,
+		"common": 447
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1239,13 +1239,13 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 75
+		"common": 76
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1700,
-		"common": 1609
+		"ips": 1701,
+		"common": 1610
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1329,7 +1329,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 95
+		"common": 96
 	},
 	{
 		"name": "sslproxies_1d",
@@ -1346,8 +1346,8 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 955,
-		"common": 930
+		"ips": 950,
+		"common": 925
 	},
 	{
 		"name": "stopforumspam",
@@ -1406,8 +1406,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21205,
-		"common": 976
+		"ips": 21199,
+		"common": 977
 	},
 	{
 		"name": "threatcrowd",
@@ -1454,26 +1454,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 252,
+		"ips": 253,
 		"common": 7
-	},
-	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 244,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 173,
-		"common": 14
 	},
 	{
 		"name": "urandomusto_malware",
 		"category": "malware",
 		"ips": 3,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 204,
+		"common": 2
 	},
 	{
 		"name": "voipbl",

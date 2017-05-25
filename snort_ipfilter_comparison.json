@@ -44,8 +44,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 336,
-		"common": 27
+		"ips": 337,
+		"common": 26
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12219,
+		"ips": 12176,
 		"common": 234
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 124232,
+		"ips": 124233,
 		"common": 28
 	},
 	{
@@ -560,13 +560,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132381,
+		"ips": 132382,
 		"common": 21208
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588529,
+		"ips": 9588488,
 		"common": 649
 	},
 	{
@@ -908,8 +908,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22952,
-		"common": 87
+		"ips": 23061,
+		"common": 88
 	},
 	{
 		"name": "nullsecure",
@@ -1164,9 +1164,15 @@
 		"common": 394
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1700,
+		"ips": 1701,
 		"common": 5
 	},
 	{
@@ -1238,7 +1244,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 955,
+		"ips": 950,
 		"common": 1
 	},
 	{
@@ -1298,8 +1304,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21205,
-		"common": 21190
+		"ips": 21199,
+		"common": 21183
 	},
 	{
 		"name": "threatcrowd",
@@ -1344,16 +1350,16 @@
 		"common": 71
 	},
 	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 173,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_malware",
 		"category": "malware",
 		"ips": 3,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 204,
+		"common": 2
 	},
 	{
 		"name": "voipbl",

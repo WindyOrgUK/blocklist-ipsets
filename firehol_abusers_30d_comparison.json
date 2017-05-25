@@ -44,8 +44,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 336,
-		"common": 69
+		"ips": 337,
+		"common": 68
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -182,8 +182,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12219,
-		"common": 1987
+		"ips": 12176,
+		"common": 1984
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -482,7 +482,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 124232,
+		"ips": 124233,
 		"common": 1957
 	},
 	{
@@ -680,14 +680,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132381,
+		"ips": 132382,
 		"common": 1747
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588529,
-		"common": 16019
+		"ips": 9588488,
+		"common": 16016
 	},
 	{
 		"name": "firehol_proxies",
@@ -1118,8 +1118,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22952,
-		"common": 412
+		"ips": 23061,
+		"common": 410
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1472,7 +1472,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1700,
+		"ips": 1701,
 		"common": 554
 	},
 	{
@@ -1557,13 +1557,13 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 68
+		"common": 71
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
 		"ips": 348,
-		"common": 211
+		"common": 210
 	},
 	{
 		"name": "sslproxies_30d",
@@ -1574,8 +1574,8 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 955,
-		"common": 469
+		"ips": 950,
+		"common": 465
 	},
 	{
 		"name": "stopforumspam",
@@ -1634,8 +1634,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21205,
-		"common": 786
+		"ips": 21199,
+		"common": 785
 	},
 	{
 		"name": "threatcrowd",
@@ -1682,20 +1682,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 252,
+		"ips": 253,
 		"common": 21
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 244,
-		"common": 20
+		"ips": 191,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 173,
-		"common": 13
+		"ips": 191,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_malware",
@@ -1704,9 +1704,15 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 204,
+		"common": 2
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 135,
+		"ips": 139,
 		"common": 1
 	},
 	{
