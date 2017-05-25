@@ -3,7 +3,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 330,
-		"common": 16
+		"common": 14
 	},
 	{
 		"name": "bogons",
@@ -21,7 +21,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 654695584,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "fullbogons",
@@ -45,12 +45,18 @@
 		"name": "iblocklist_fornonlancomputers",
 		"category": "reputation",
 		"ips": 302055424,
-		"common": 11
+		"common": 10
+	},
+	{
+		"name": "iblocklist_iana_private",
+		"category": "unroutable",
+		"ips": 51643638,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_iana_reserved",
 		"category": "unroutable",
 		"ips": 536870912,
-		"common": 11
+		"common": 10
 	}
 ]
