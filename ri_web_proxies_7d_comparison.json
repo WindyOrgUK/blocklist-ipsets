@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 322,
+		"ips": 321,
 		"common": 2
 	},
 	{
@@ -44,25 +44,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36411,
-		"common": 108
+		"ips": 36494,
+		"common": 109
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
 		"ips": 204,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16212,
+		"ips": 16248,
 		"common": 79
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 8333,
+		"ips": 8322,
 		"common": 17
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38211,
+		"ips": 38209,
 		"common": 1534
 	},
 	{
@@ -338,8 +338,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44915,
-		"common": 109
+		"ips": 44998,
+		"common": 110
 	},
 	{
 		"name": "firehol_level3",
@@ -964,6 +964,12 @@
 		"category": "reputation",
 		"ips": 39574,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 137,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

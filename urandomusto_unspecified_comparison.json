@@ -50,7 +50,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 322,
+		"ips": 321,
 		"common": 3
 	},
 	{
@@ -92,20 +92,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36411,
+		"ips": 36494,
 		"common": 15
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9160,
+		"ips": 9166,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 8333,
-		"common": 24
+		"ips": 8322,
+		"common": 23
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 10546,
+		"common": 1
 	},
 	{
 		"name": "bruteforceblocker",
@@ -248,7 +254,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44915,
+		"ips": 44998,
 		"common": 38
 	},
 	{
@@ -486,9 +492,15 @@
 		"common": 3
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 206,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 91,
+		"ips": 94,
 		"common": 2
 	},
 	{
