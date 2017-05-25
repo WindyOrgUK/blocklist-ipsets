@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11733,
+		"ips": 11816,
 		"common": 1
 	},
 	{
@@ -134,8 +134,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588021,
+		"ips": 9588112,
 		"common": 7
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 27327,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -242,8 +248,14 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4899,
-		"common": 9
+		"ips": 4902,
+		"common": 10
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 165,
+		"common": 1
 	},
 	{
 		"name": "shunlist",

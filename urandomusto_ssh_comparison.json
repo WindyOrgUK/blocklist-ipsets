@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11733,
+		"ips": 11816,
 		"common": 6
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588021,
+		"ips": 9588112,
 		"common": 17
 	},
 	{
@@ -266,8 +266,14 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4169,
+		"ips": 4212,
 		"common": 3
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2734,
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -302,13 +308,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3190,
+		"ips": 3191,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 975,
+		"ips": 976,
 		"common": 1
 	},
 	{
