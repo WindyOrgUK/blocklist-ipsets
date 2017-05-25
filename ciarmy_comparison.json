@@ -56,7 +56,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 322,
+		"ips": 325,
 		"common": 5
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12093,
+		"ips": 12100,
 		"common": 7
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654695571,
+		"ips": 654695584,
 		"common": 436
 	},
 	{
@@ -518,7 +518,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588407,
+		"ips": 9588415,
 		"common": 77
 	},
 	{
@@ -782,8 +782,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4212,
-		"common": 1063
+		"ips": 4183,
+		"common": 990
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -794,14 +794,14 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 120,
+		"ips": 127,
 		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2734,
-		"common": 691
+		"ips": 2772,
+		"common": 674
 	},
 	{
 		"name": "proxylists",
@@ -1100,13 +1100,19 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 206,
-		"common": 61
+		"ips": 244,
+		"common": 72
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 173,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 94,
+		"ips": 95,
 		"common": 7
 	},
 	{
