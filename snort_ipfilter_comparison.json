@@ -134,43 +134,43 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 38505,
-		"common": 81
+		"ips": 38658,
+		"common": 82
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9250,
+		"ips": 9254,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1716,
-		"common": 2
+		"ips": 1726,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17125,
-		"common": 47
+		"ips": 17189,
+		"common": 48
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 8189,
+		"ips": 8184,
 		"common": 22
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 11680,
+		"ips": 11768,
 		"common": 11
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12401,
+		"ips": 12402,
 		"common": 216
 	},
 	{
@@ -548,8 +548,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47018,
-		"common": 94
+		"ips": 47169,
+		"common": 95
 	},
 	{
 		"name": "firehol_level3",
@@ -560,7 +560,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588769,
+		"ips": 9588770,
 		"common": 643
 	},
 	{
@@ -572,7 +572,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27361,
+		"ips": 27360,
 		"common": 205
 	},
 	{
@@ -1112,7 +1112,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4904,
+		"ips": 4903,
 		"common": 2
 	},
 	{
@@ -1346,13 +1346,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 277,
+		"ips": 272,
+		"common": 4
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 279,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 300,
+		"ips": 238,
 		"common": 2
 	},
 	{
@@ -1364,8 +1370,8 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 318,
-		"common": 2
+		"ips": 295,
+		"common": 3
 	},
 	{
 		"name": "voipbl",
