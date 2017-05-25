@@ -39,7 +39,7 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 341,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -80,13 +80,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22645,
+		"ips": 22648,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11854,
+		"ips": 11857,
 		"common": 1
 	},
 	{
@@ -200,8 +200,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 15365,
-		"common": 992
+		"ips": 15403,
+		"common": 998
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -524,8 +524,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132382,
-		"common": 1165
+		"ips": 132418,
+		"common": 1171
 	},
 	{
 		"name": "firehol_level4",
@@ -1100,49 +1100,61 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 253,
-		"common": 8
+		"ips": 283,
+		"common": 10
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 188,
+		"common": 4
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 233,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 97,
-		"common": 7
+		"ips": 103,
+		"common": 10
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 168,
-		"common": 24
+		"ips": 171,
+		"common": 25
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 17,
+		"ips": 18,
 		"common": 6
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 204,
-		"common": 3
+		"ips": 408,
+		"common": 14
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 431,
-		"common": 17
+		"ips": 443,
+		"common": 27
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 139,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 34,
+		"ips": 35,
 		"common": 12
 	},
 	{
@@ -1154,7 +1166,7 @@
 	{
 		"name": "xforce_bccs",
 		"category": "malware",
-		"ips": 309,
+		"ips": 310,
 		"common": 1
 	}
 ]

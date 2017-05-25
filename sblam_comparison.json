@@ -33,7 +33,7 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 341,
-		"common": 46
+		"common": 44
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -86,19 +86,19 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7436,
+		"ips": 7438,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22645,
+		"ips": 22648,
 		"common": 6
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11854,
+		"ips": 11857,
 		"common": 2
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 15365,
+		"ips": 15403,
 		"common": 2
 	},
 	{
@@ -518,7 +518,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132382,
+		"ips": 132418,
 		"common": 730
 	},
 	{
@@ -1328,8 +1328,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 253,
+		"ips": 283,
+		"common": 4
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 188,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 233,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_malware",
@@ -1340,8 +1352,8 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 204,
-		"common": 1
+		"ips": 408,
+		"common": 8
 	},
 	{
 		"name": "voipbl",

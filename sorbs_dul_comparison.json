@@ -81,7 +81,7 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 341,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -122,13 +122,13 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 974,
-		"common": 148
+		"ips": 966,
+		"common": 146
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 2147,
+		"ips": 2143,
 		"common": 309
 	},
 	{
@@ -146,26 +146,26 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5794,
-		"common": 902
+		"ips": 5754,
+		"common": 896
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7436,
+		"ips": 7438,
 		"common": 1451
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22645,
-		"common": 6141
+		"ips": 22648,
+		"common": 6143
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11854,
-		"common": 2847
+		"ips": 11857,
+		"common": 2849
 	},
 	{
 		"name": "blocklist_de",
@@ -332,8 +332,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 15365,
-		"common": 1030
+		"ips": 15403,
+		"common": 1031
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -782,8 +782,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132382,
-		"common": 9221
+		"ips": 132418,
+		"common": 9222
 	},
 	{
 		"name": "firehol_level4",
@@ -1814,38 +1814,50 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 253,
-		"common": 22
+		"ips": 283,
+		"common": 25
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 191,
-		"common": 1
+		"ips": 188,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 233,
+		"common": 27
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 97,
+		"ips": 103,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 168,
+		"ips": 171,
 		"common": 6
+	},
+	{
+		"name": "urandomusto_smb",
+		"category": "attacks",
+		"ips": 18,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 204,
-		"common": 18
+		"ips": 408,
+		"common": 34
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 431,
-		"common": 50
+		"ips": 443,
+		"common": 58
 	},
 	{
 		"name": "urandomusto_unspecified",
@@ -1868,7 +1880,7 @@
 	{
 		"name": "xforce_bccs",
 		"category": "malware",
-		"ips": 309,
+		"ips": 310,
 		"common": 9
 	},
 	{

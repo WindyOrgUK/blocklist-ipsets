@@ -51,7 +51,7 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 341,
-		"common": 74
+		"common": 75
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -92,13 +92,13 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 974,
+		"ips": 966,
 		"common": 4
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 2147,
+		"ips": 2143,
 		"common": 6
 	},
 	{
@@ -116,25 +116,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5794,
+		"ips": 5754,
 		"common": 11
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7436,
+		"ips": 7438,
 		"common": 16
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22645,
+		"ips": 22648,
 		"common": 130
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11854,
+		"ips": 11857,
 		"common": 42
 	},
 	{
@@ -296,8 +296,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 15365,
-		"common": 145
+		"ips": 15403,
+		"common": 146
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -752,8 +752,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132382,
-		"common": 905
+		"ips": 132418,
+		"common": 906
 	},
 	{
 		"name": "firehol_level4",
@@ -1724,20 +1724,32 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 253,
-		"common": 8
+		"ips": 283,
+		"common": 10
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 233,
+		"common": 16
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 168,
+		"ips": 171,
 		"common": 6
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 204,
+		"ips": 408,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 443,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_unspecified",
@@ -1760,7 +1772,7 @@
 	{
 		"name": "xforce_bccs",
 		"category": "malware",
-		"ips": 309,
+		"ips": 310,
 		"common": 2
 	},
 	{
