@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 320,
+		"ips": 319,
 		"common": 32
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 647,
+		"ips": 650,
 		"common": 12
 	},
 	{
@@ -464,8 +464,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11001,
-		"common": 5204
+		"ips": 11099,
+		"common": 5205
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -476,7 +476,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38228,
+		"ips": 38223,
 		"common": 441
 	},
 	{
@@ -506,7 +506,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24993,
+		"ips": 24988,
 		"common": 345
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
-		"ips": 1095811,
+		"ips": 1095813,
 		"common": 379
 	},
 	{
@@ -1131,24 +1131,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 4
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1729,
+		"ips": 1733,
 		"common": 25
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11109,
+		"ips": 11106,
 		"common": 43
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4241,
+		"ips": 4243,
 		"common": 38
 	},
 	{
@@ -1209,25 +1209,25 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 349,
+		"ips": 348,
 		"common": 5
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3195,
+		"ips": 3193,
 		"common": 22
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 972,
-		"common": 14
+		"ips": 960,
+		"common": 13
 	},
 	{
 		"name": "stopforumspam",
@@ -1244,8 +1244,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4429,
-		"common": 354
+		"ips": 4548,
+		"common": 366
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1328,20 +1328,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 253,
+		"ips": 254,
 		"common": 5
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 241,
-		"common": 26
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 200,
-		"common": 2
+		"ips": 214,
+		"common": 25
 	},
 	{
 		"name": "urlvir",
