@@ -50,13 +50,13 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17759,
+		"ips": 17851,
 		"common": 99
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 8102,
+		"ips": 8098,
 		"common": 8
 	},
 	{
@@ -180,6 +180,12 @@
 		"common": 1
 	},
 	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 20655,
+		"common": 1
+	},
+	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
 		"ips": 653,
@@ -260,7 +266,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38064,
+		"ips": 38066,
 		"common": 92
 	},
 	{
@@ -290,7 +296,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24861,
+		"ips": 24863,
 		"common": 88
 	},
 	{
@@ -672,21 +678,27 @@
 		"common": 8
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 4
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1625,
+		"ips": 1628,
 		"common": 42
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11011,
+		"ips": 11014,
 		"common": 58
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4135,
+		"ips": 4138,
 		"common": 55
 	},
 	{
