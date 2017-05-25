@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 349,
+		"ips": 348,
 		"common": 3
 	},
 	{
@@ -38,32 +38,38 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 38872,
+		"ips": 38905,
 		"common": 96
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9267,
+		"ips": 9262,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 691,
+		"ips": 684,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 323,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 8162,
+		"ips": 8155,
 		"common": 13
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 11889,
-		"common": 82
+		"ips": 11896,
+		"common": 81
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -242,13 +248,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38030,
+		"ips": 38016,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46860,
+		"ips": 46892,
 		"common": 96
 	},
 	{
@@ -266,7 +272,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24875,
+		"ips": 24865,
 		"common": 1
 	},
 	{
@@ -544,12 +550,6 @@
 		"category": "reputation",
 		"ips": 39574,
 		"common": 120
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 295,
-		"common": 3
 	},
 	{
 		"name": "voipbl",
