@@ -18,6 +18,18 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 36821,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 16387,
+		"common": 1
+	},
+	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1349,
@@ -68,7 +80,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38150,
+		"ips": 38151,
 		"common": 1
 	},
 	{
@@ -76,6 +88,12 @@
 		"category": "attacks",
 		"ips": 654695584,
 		"common": 723968
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 45315,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
@@ -92,7 +110,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24943,
+		"ips": 24944,
 		"common": 1
 	},
 	{
@@ -218,19 +236,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 351,
+		"ips": 353,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3191,
+		"ips": 3193,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 957,
+		"ips": 954,
 		"common": 1
 	},
 	{
